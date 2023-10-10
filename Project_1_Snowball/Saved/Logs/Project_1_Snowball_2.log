@@ -1227,3 +1227,146 @@ LogConfig: Set CVar [[r.Shadow.DetectVertexShaderLayerAtRuntime:1]]
 [2023.10.10-12.41.25:691][667]LogFileHelpers: InternalPromptForCheckoutAndSave took 148 ms
 [2023.10.10-12.41.25:692][667]AssetCheck: New page: Asset Save: PushableObject01
 [2023.10.10-12.41.25:692][667]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Pushable/PushableObject01.PushableObject01
+[2023.10.10-12.48.58:159][578]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.10.10-12.48.58:233][579]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.10.10-12.50.34:880][183]LogEditorTransaction: Undo Move Node
+[2023.10.10-12.50.37:962][352]LogEditorTransaction: Undo Move Nodes
+[2023.10.10-12.51.16:289][565]LogEditorTransaction: Undo Delete current selection
+[2023.10.10-12.52.00:100][ 75]LogEditorTransaction: Undo Paste clipboard contents
+[2023.10.10-12.52.00:612][ 91]LogEditorTransaction: Undo Delete current selection
+[2023.10.10-12.52.33:983][673]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.10.10-12.52.34:115][673]LogSavePackage: Moving output files for package: /Game/Pushable/PushableObject01
+[2023.10.10-12.52.34:115][673]LogSavePackage: Moving '../../../../../../Users/ASUS/OneDrive/문서/Projects/SeSAC/Project_1/Project_1_Snowball/Saved/PushableObject01CC60910D426DA5233629B0BA7094DF58.tmp' to '../../../../../../Users/ASUS/OneDrive/문서/Projects/SeSAC/Project_1/Project_1_Snowball/Content/Pushable/PushableObject01.uasset'
+[2023.10.10-12.52.34:124][673]LogFileHelpers: InternalPromptForCheckoutAndSave took 141 ms (total: 290 ms)
+[2023.10.10-12.52.34:126][673]AssetCheck: New page: Asset Save: PushableObject01
+[2023.10.10-12.52.34:126][673]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Pushable/PushableObject01.PushableObject01
+[2023.10.10-12.55.49:024][829]BlueprintLog: New page: Compile PushableObject01
+[2023.10.10-12.55.49:075][829]LogUObjectHash: Compacting FUObjectHashTables data took   1.82ms
+[2023.10.10-12.56.51:696][348]LogSelectionDetails: Warning: NavigateToFunctionSource:  Unable to find source file and line number for 'UKismetSystemLibrary::LineTraceSingle' [요소가 없습니다.]
+[2023.10.10-12.56.52:030][360]LogSelectionDetails: Warning: NavigateToFunctionSource:  Unable to find source file and line number for 'UKismetSystemLibrary::LineTraceSingle' [지정된 모듈을 찾을 수 없습니다.]
+[2023.10.10-12.57.05:115][ 90]LogSelectionDetails: Warning: NavigateToFunctionSource:  Unable to find source file and line number for 'UKismetSystemLibrary::LineTraceSingle' [지정된 모듈을 찾을 수 없습니다.]
+[2023.10.10-12.57.59:125][787]LogUObjectHash: Compacting FUObjectHashTables data took   2.71ms
+[2023.10.10-12.57.59:135][787]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/ThirdPerson/Maps/ThirdPersonMap_Auto1
+[2023.10.10-12.57.59:136][787]LogSavePackage: Moving '../../../../../../Users/ASUS/OneDrive/문서/Projects/SeSAC/Project_1/Project_1_Snowball/Saved/ThirdPersonMap_Auto1A486B696411EBFD0EB5C35A60A657F6E.tmp' to '../../../../../../Users/ASUS/OneDrive/문서/Projects/SeSAC/Project_1/Project_1_Snowball/Saved/Autosaves/Game/ThirdPerson/Maps/ThirdPersonMap_Auto1.umap'
+[2023.10.10-12.57.59:138][787]LogAssetRegistry: Warning: ScanPathsSynchronous: ../../../../../../Users/ASUS/OneDrive/문서/Projects/SeSAC/Project_1/Project_1_Snowball/Saved/Autosaves/Game/ThirdPerson/Maps/ThirdPersonMap_Auto1.umap is in the /Temp path, will not scan.
+[2023.10.10-12.57.59:139][787]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/ThirdPerson/Maps/ThirdPersonMap' took 0.041
+[2023.10.10-12.57.59:139][787]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.041
+[2023.10.10-12.57.59:139][787]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Pushable/PushableObject01] ([2] browsable assets)...
+[2023.10.10-12.57.59:225][787]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Pushable/PushableObject01.PushableObject01]
+[2023.10.10-12.57.59:225][787]OBJ SavePackage: Finished generating thumbnails for package [/Game/Pushable/PushableObject01]
+[2023.10.10-12.57.59:237][787]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Pushable/PushableObject01_Auto1
+[2023.10.10-12.57.59:237][787]LogSavePackage: Moving '../../../../../../Users/ASUS/OneDrive/문서/Projects/SeSAC/Project_1/Project_1_Snowball/Saved/PushableObject01_Auto1FE8F234F43F140D57431BA8B3C4D0161.tmp' to '../../../../../../Users/ASUS/OneDrive/문서/Projects/SeSAC/Project_1/Project_1_Snowball/Saved/Autosaves/Game/Pushable/PushableObject01_Auto1.uasset'
+[2023.10.10-12.57.59:238][787]LogFileHelpers: Auto-saving content packages took 0.099
+[2023.10.10-12.58.07:448][216]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.10.10-12.58.07:539][216]LogSavePackage: Moving output files for package: /Game/Pushable/PushableObject01
+[2023.10.10-12.58.07:540][216]LogSavePackage: Moving '../../../../../../Users/ASUS/OneDrive/문서/Projects/SeSAC/Project_1/Project_1_Snowball/Saved/PushableObject0109C8CE204DC5A2D1BD6A5799D4210041.tmp' to '../../../../../../Users/ASUS/OneDrive/문서/Projects/SeSAC/Project_1/Project_1_Snowball/Content/Pushable/PushableObject01.uasset'
+[2023.10.10-12.58.07:547][216]LogFileHelpers: InternalPromptForCheckoutAndSave took 100 ms (total: 390 ms)
+[2023.10.10-12.58.07:549][216]AssetCheck: New page: Asset Save: PushableObject01
+[2023.10.10-12.58.07:549][216]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Pushable/PushableObject01.PushableObject01
+[2023.10.10-12.58.23:124][522]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.10.10-12.58.23:210][522]LogSavePackage: Moving output files for package: /Game/Pushable/PushableObject01
+[2023.10.10-12.58.23:210][522]LogSavePackage: Moving '../../../../../../Users/ASUS/OneDrive/문서/Projects/SeSAC/Project_1/Project_1_Snowball/Saved/PushableObject01BA3072C642AE546069ED5AB18FA52D3A.tmp' to '../../../../../../Users/ASUS/OneDrive/문서/Projects/SeSAC/Project_1/Project_1_Snowball/Content/Pushable/PushableObject01.uasset'
+[2023.10.10-12.58.23:220][522]LogFileHelpers: InternalPromptForCheckoutAndSave took 95 ms (total: 485 ms)
+[2023.10.10-12.58.23:222][522]AssetCheck: New page: Asset Save: PushableObject01
+[2023.10.10-12.58.23:222][522]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Pushable/PushableObject01.PushableObject01
+[2023.10.10-12.59.29:991][926]BlueprintLog: New page: Compile PushableObject01
+[2023.10.10-12.59.30:040][926]LogUObjectHash: Compacting FUObjectHashTables data took   2.21ms
+[2023.10.10-12.59.31:923][ 33]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.10.10-12.59.32:050][ 33]LogSavePackage: Moving output files for package: /Game/Pushable/PushableObject01
+[2023.10.10-12.59.32:050][ 33]LogSavePackage: Moving '../../../../../../Users/ASUS/OneDrive/문서/Projects/SeSAC/Project_1/Project_1_Snowball/Saved/PushableObject013BD550D346CF88B991C503A315C7E7F1.tmp' to '../../../../../../Users/ASUS/OneDrive/문서/Projects/SeSAC/Project_1/Project_1_Snowball/Content/Pushable/PushableObject01.uasset'
+[2023.10.10-12.59.32:060][ 33]LogFileHelpers: InternalPromptForCheckoutAndSave took 136 ms (total: 622 ms)
+[2023.10.10-12.59.32:061][ 33]AssetCheck: New page: Asset Save: PushableObject01
+[2023.10.10-12.59.32:061][ 33]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Pushable/PushableObject01.PushableObject01
+[2023.10.10-13.03.37:363][968]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.10.10-13.03.37:500][968]LogSavePackage: Moving output files for package: /Game/Pushable/PushableObject01
+[2023.10.10-13.03.37:501][968]LogSavePackage: Moving '../../../../../../Users/ASUS/OneDrive/문서/Projects/SeSAC/Project_1/Project_1_Snowball/Saved/PushableObject01FC2689B94BF8CF90C84754BD139F3EB0.tmp' to '../../../../../../Users/ASUS/OneDrive/문서/Projects/SeSAC/Project_1/Project_1_Snowball/Content/Pushable/PushableObject01.uasset'
+[2023.10.10-13.03.37:510][968]LogFileHelpers: InternalPromptForCheckoutAndSave took 146 ms (total: 769 ms)
+[2023.10.10-13.03.37:511][968]AssetCheck: New page: Asset Save: PushableObject01
+[2023.10.10-13.03.37:511][968]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Pushable/PushableObject01.PushableObject01
+[2023.10.10-13.03.38:151][  7]BlueprintLog: New page: Compile PushableObject01
+[2023.10.10-13.03.38:199][  7]LogUObjectHash: Compacting FUObjectHashTables data took   1.76ms
+[2023.10.10-13.03.39:176][ 59]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.10.10-13.03.39:343][ 59]LogSavePackage: Moving output files for package: /Game/Pushable/PushableObject01
+[2023.10.10-13.03.39:343][ 59]LogSavePackage: Moving '../../../../../../Users/ASUS/OneDrive/문서/Projects/SeSAC/Project_1/Project_1_Snowball/Saved/PushableObject010B137E074EA8CE38140328B76D7062E3.tmp' to '../../../../../../Users/ASUS/OneDrive/문서/Projects/SeSAC/Project_1/Project_1_Snowball/Content/Pushable/PushableObject01.uasset'
+[2023.10.10-13.03.39:352][ 59]LogFileHelpers: InternalPromptForCheckoutAndSave took 176 ms (total: 946 ms)
+[2023.10.10-13.03.39:355][ 59]AssetCheck: New page: Asset Save: PushableObject01
+[2023.10.10-13.03.39:355][ 59]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Pushable/PushableObject01.PushableObject01
+[2023.10.10-13.05.20:510][988]LogUObjectHash: Compacting FUObjectHashTables data took   1.70ms
+[2023.10.10-13.05.20:516][988]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.10.10-13.05.20:609][988]LogUObjectHash: Compacting FUObjectHashTables data took   0.70ms
+[2023.10.10-13.05.20:615][988]LogSavePackage: Moving output files for package: /Game/ThirdPerson/Maps/ThirdPersonMap
+[2023.10.10-13.05.20:616][988]LogSavePackage: Moving '../../../../../../Users/ASUS/OneDrive/문서/Projects/SeSAC/Project_1/Project_1_Snowball/Saved/ThirdPersonMap6AAF29CF4487287AC9C4A09C8134DFD6.tmp' to '../../../../../../Users/ASUS/OneDrive/문서/Projects/SeSAC/Project_1/Project_1_Snowball/Content/ThirdPerson/Maps/ThirdPersonMap.umap'
+[2023.10.10-13.05.20:620][988]LogFileHelpers: All files are already saved.
+[2023.10.10-13.05.20:621][988]LogFileHelpers: Saving map 'ThirdPersonMap' took 0.045
+[2023.10.10-13.05.20:711][988]LogSavePackage: Moving output files for package: /Game/Pushable/PushableObject01
+[2023.10.10-13.05.20:712][988]LogSavePackage: Moving '../../../../../../Users/ASUS/OneDrive/문서/Projects/SeSAC/Project_1/Project_1_Snowball/Saved/PushableObject014B324C2A4D2EA371AD2A3C91BB36D758.tmp' to '../../../../../../Users/ASUS/OneDrive/문서/Projects/SeSAC/Project_1/Project_1_Snowball/Content/Pushable/PushableObject01.uasset'
+[2023.10.10-13.05.20:721][988]LogFileHelpers: InternalPromptForCheckoutAndSave took 204 ms (total: 1.15 sec)
+[2023.10.10-13.05.20:723][988]AssetCheck: New page: Asset Save: multiple assets
+[2023.10.10-13.05.20:723][988]LogContentValidation: Display: Validating /Script/Engine.World /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap
+[2023.10.10-13.05.20:723][988]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Pushable/PushableObject01.PushableObject01
+[2023.10.10-13.07.17:256][ 97]BlueprintLog: New page: Compile PushableObject01
+[2023.10.10-13.07.17:263][ 97]LogBlueprint: Error: [AssetLog] C:\Users\ASUS\OneDrive\문서\Projects\SeSAC\Project_1\Project_1_Snowball\Content\Pushable\PushableObject01.uasset: [Compiler] This blueprint (self) is not a FunctionalTest, therefore ' Target ' must have a connection.
+[2023.10.10-13.07.17:303][ 97]LogUObjectHash: Compacting FUObjectHashTables data took   1.86ms
+[2023.10.10-13.07.38:126][320]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.10.10-13.07.38:267][320]LogSavePackage: Moving output files for package: /Game/Pushable/PushableObject01
+[2023.10.10-13.07.38:268][320]LogSavePackage: Moving '../../../../../../Users/ASUS/OneDrive/문서/Projects/SeSAC/Project_1/Project_1_Snowball/Saved/PushableObject01AE0840B7464151BCDD92FAA25D9093BE.tmp' to '../../../../../../Users/ASUS/OneDrive/문서/Projects/SeSAC/Project_1/Project_1_Snowball/Content/Pushable/PushableObject01.uasset'
+[2023.10.10-13.07.38:277][320]LogFileHelpers: InternalPromptForCheckoutAndSave took 151 ms (total: 1.30 sec)
+[2023.10.10-13.07.38:279][320]AssetCheck: New page: Asset Save: PushableObject01
+[2023.10.10-13.07.38:279][320]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Pushable/PushableObject01.PushableObject01
+[2023.10.10-13.08.02:596][499]BlueprintLog: New page: Compile PushableObject01
+[2023.10.10-13.08.02:642][499]LogUObjectHash: Compacting FUObjectHashTables data took   1.89ms
+[2023.10.10-13.08.04:114][578]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.10.10-13.08.04:243][578]LogSavePackage: Moving output files for package: /Game/Pushable/PushableObject01
+[2023.10.10-13.08.04:244][578]LogSavePackage: Moving '../../../../../../Users/ASUS/OneDrive/문서/Projects/SeSAC/Project_1/Project_1_Snowball/Saved/PushableObject01F32A33CD412E93535D3DECBF3EAE7AA3.tmp' to '../../../../../../Users/ASUS/OneDrive/문서/Projects/SeSAC/Project_1/Project_1_Snowball/Content/Pushable/PushableObject01.uasset'
+[2023.10.10-13.08.04:251][578]LogFileHelpers: InternalPromptForCheckoutAndSave took 136 ms (total: 1.43 sec)
+[2023.10.10-13.08.04:252][578]AssetCheck: New page: Asset Save: PushableObject01
+[2023.10.10-13.08.04:252][578]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Pushable/PushableObject01.PushableObject01
+[2023.10.10-13.08.05:276][640]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2023.10.10-13.08.05:281][640]LogContentBundle: [ThirdPersonMap(Standalone)] Generating Streaming for 0 Content Bundles.
+[2023.10.10-13.08.05:281][640]LogWorldPartition: Display: GenerateStreaming for 'ThirdPersonMap' started...
+[2023.10.10-13.08.05:283][640]LogWorldPartition: Display: GenerateStreaming for 'ThirdPersonMap' took 1 ms (total: 3 ms)
+[2023.10.10-13.08.05:283][640]BlueprintLog: New page: Pre-Play auto-recompile
+[2023.10.10-13.08.05:284][640]LogPlayLevel: [PlayLevel] Compiling ThirdPersonMap before play...
+[2023.10.10-13.08.05:319][640]LogUObjectHash: Compacting FUObjectHashTables data took   1.58ms
+[2023.10.10-13.08.05:321][640]LogPlayLevel: PlayLevel: Blueprint regeneration took 38 ms (1 blueprints)
+[2023.10.10-13.08.05:325][640]PIE: New page: PIE session: ThirdPersonMap (2023. 10. 11. 오전 7:08:05)
+[2023.10.10-13.08.05:332][640]LogOnline: OSS: Created online subsystem instance for: NULL
+[2023.10.10-13.08.05:333][640]LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for type [NULL]
+[2023.10.10-13.08.05:333][640]LogPlayLevel: Creating play world package: /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap
+[2023.10.10-13.08.05:337][640]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004107s)
+[2023.10.10-13.08.05:337][640]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap to /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap (0.004147s)
+[2023.10.10-13.08.05:351][640]LogUObjectHash: Compacting FUObjectHashTables data took   1.23ms
+[2023.10.10-13.08.05:352][640]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.10.10-13.08.05:352][640]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.10.10-13.08.05:354][640]LogAIModule: Creating AISystem for world ThirdPersonMap
+[2023.10.10-13.08.05:354][640]LogWorldPartition: ULevel::OnLevelLoaded(ThirdPersonMap)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2023.10.10-13.08.05:354][640]LogWorldPartition: Display: WorldPartition initialize started...
+[2023.10.10-13.08.05:354][640]LogWorldPartition: UWorldPartition::Initialize : World = ThirdPersonMap, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2023.10.10-13.08.05:354][640]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2023.10.10-13.08.05:355][640]LogContentBundle: [ThirdPersonMap(Standalone)] Creating new contrainer.
+[2023.10.10-13.08.05:355][640]LogWorldPartition: Display: WorldPartition initialize took 1 ms (total: 211 ms)
+[2023.10.10-13.08.05:355][640]LogPlayLevel: PIE: World Init took: (0.002673s)
+[2023.10.10-13.08.05:355][640]LogAudio: Display: Creating Audio Device:                 Id: 2, Scope: Unique, Realtime: True
+[2023.10.10-13.08.05:355][640]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.10.10-13.08.05:355][640]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.10.10-13.08.05:355][640]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.10.10-13.08.05:355][640]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.10.10-13.08.05:355][640]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2023.10.10-13.08.05:355][640]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2023.10.10-13.08.05:355][640]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2023.10.10-13.08.05:355][640]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.10.10-13.08.05:356][640]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.10.10-13.08.05:356][640]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.10.10-13.08.05:356][640]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.10.10-13.08.05:358][640]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.10.10-13.08.05:371][640]LogAudioMixer: Display: Using Audio Hardware Device 헤드폰(Britz BT3000)
+[2023.10.10-13.08.05:371][640]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.10.10-13.08.05:371][640]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.10.10-13.08.05:371][640]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.10.10-13.08.05:373][640]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=2
+[2023.10.10-13.08.05:373][640]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=2
+[2023.10.10-13.08.05:374][640]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=2
+[2023.10.10-13.08.05:374][640]LogInit: FAudioDevice initialized with ID 2.
+[2023.10.10-13.08.05:374][640]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=2
+[2023.10.10-13.08.05:374][640]LogAudio: Display: Audio Device (ID: 2) registered with world 'ThirdPersonMap'.
+[2023.10.10-13.08.05:374][640]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 2
