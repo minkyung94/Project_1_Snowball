@@ -5111,3 +5111,125 @@ LogConfig: Set CVar [[r.setres:1280x720]]
 [2023.10.11-11.09.31:543][405]LogFileHelpers: InternalPromptForCheckoutAndSave took 89 ms (total: 5.37 sec)
 [2023.10.11-11.09.31:545][405]AssetCheck: New page: Asset Save: PushableObject01
 [2023.10.11-11.09.31:545][405]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Pushable/PushableObject01.PushableObject01
+[2023.10.11-11.21.23:387][598]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.10.11-11.22.51:941][336]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.10.11-11.22.52:090][343]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.10.11-11.23.19:602][615]LogAnimationCompression: Display: Building compressed animation data for AnimSequence /Game/Characters/Mannequins/Rigs/Poses/Quinn/Quinn_calf_l_anim.Quinn_calf_l_anim
+[2023.10.11-11.23.19:620][615]LogAnimationCompression: Display: Building compressed animation data for AnimSequence /Game/Characters/Mannequins/Rigs/Poses/Quinn/Quinn_calf_r_anim.Quinn_calf_r_anim
+[2023.10.11-11.23.19:637][615]LogAnimationCompression: Display: Storing compressed animation data for /Game/Characters/Mannequins/Rigs/Poses/Quinn/Quinn_calf_l_anim.Quinn_calf_l_anim, at AnimationSequence/a5e988c5bb87518026afcb759af4ef25e1732756
+[2023.10.11-11.23.19:650][615]LogAnimationCompression: Display: Building compressed animation data for AnimSequence /Game/Characters/Mannequins/Rigs/Poses/Quinn/Quinn_clavicle_l_anim.Quinn_clavicle_l_anim
+[2023.10.11-11.23.19:652][615]LogAnimationCompression: Display: Building compressed animation data for AnimSequence /Game/Characters/Mannequins/Rigs/Poses/Quinn/Quinn_clavicle_r_anim.Quinn_clavicle_r_anim
+[2023.10.11-11.23.19:660][615]LogAnimationCompression: Display: Storing compressed animation data for /Game/Characters/Mannequins/Rigs/Poses/Quinn/Quinn_calf_r_anim.Quinn_calf_r_anim, at AnimationSequence/78d59f76b321cd04f7ee5c0f8bad1d0ddeb943f8
+[2023.10.11-11.23.19:691][615]LogAnimationCompression: Display: Storing compressed animation data for /Game/Characters/Mannequins/Rigs/Poses/Quinn/Quinn_clavicle_l_anim.Quinn_clavicle_l_anim, at AnimationSequence/2b35e2cb64a6dd08d03abcbb3968c6aadab948b4
+[2023.10.11-11.23.19:693][615]LogAnimationCompression: Display: Building compressed animation data for AnimSequence /Game/Characters/Mannequins/Rigs/Poses/Quinn/Quinn_foot_l_anim.Quinn_foot_l_anim
+[2023.10.11-11.23.19:696][615]LogAnimationCompression: Display: Building compressed animation data for AnimSequence /Game/Characters/Mannequins/Rigs/Poses/Quinn/Quinn_foot_r_anim.Quinn_foot_r_anim
+[2023.10.11-11.23.19:705][615]LogAnimationCompression: Display: Storing compressed animation data for /Game/Characters/Mannequins/Rigs/Poses/Quinn/Quinn_clavicle_r_anim.Quinn_clavicle_r_anim, at AnimationSequence/659595a81ebe13fc448f5ee9f5593fdc0e53a749
+[2023.10.11-11.23.19:717][615]LogAnimationCompression: Display: Building compressed animation data for AnimSequence /Game/Characters/Mannequins/Rigs/Poses/Quinn/Quinn_hand_l_anim.Quinn_hand_l_anim
+[2023.10.11-11.23.19:719][615]LogAnimationCompression: Display: Storing compressed animation data for /Game/Characters/Mannequins/Rigs/Poses/Quinn/Quinn_foot_l_anim.Quinn_foot_l_anim, at AnimationSequence/7377f7608ecc76bb5c79adabab43d379a2e6f1cf
+[2023.10.11-11.23.19:725][615]LogAnimationCompression: Display: Storing compressed animation data for /Game/Characters/Mannequins/Rigs/Poses/Quinn/Quinn_foot_r_anim.Quinn_foot_r_anim, at AnimationSequence/578caae2f8a3debbaede49d32eaf475b270cc1c4
+[2023.10.11-11.23.19:738][615]LogAnimationCompression: Display: Building compressed animation data for AnimSequence /Game/Characters/Mannequins/Rigs/Poses/Quinn/Quinn_hand_r_anim.Quinn_hand_r_anim
+[2023.10.11-11.23.19:742][615]LogAnimationCompression: Display: Building compressed animation data for AnimSequence /Game/Characters/Mannequins/Rigs/Poses/Quinn/Quinn_lowerarm_l_anim.Quinn_lowerarm_l_anim
+[2023.10.11-11.23.19:747][615]LogAnimationCompression: Display: Storing compressed animation data for /Game/Characters/Mannequins/Rigs/Poses/Quinn/Quinn_hand_l_anim.Quinn_hand_l_anim, at AnimationSequence/b15e2b4b7796776b184bec51aacfa31c4ed9cac3
+[2023.10.11-11.23.19:760][615]LogSkeletalMesh: Building Skeletal Mesh SKM_Quinn...
+[2023.10.11-11.23.19:777][615]LogAnimationCompression: Display: Storing compressed animation data for /Game/Characters/Mannequins/Rigs/Poses/Quinn/Quinn_hand_r_anim.Quinn_hand_r_anim, at AnimationSequence/975da6e8e8fa318fac61743dfcb1cf1c0ce04e00
+[2023.10.11-11.23.19:794][615]LogAnimationCompression: Display: Building compressed animation data for AnimSequence /Game/Characters/Mannequins/Rigs/Poses/Quinn/Quinn_lowerarm_r_anim.Quinn_lowerarm_r_anim
+[2023.10.11-11.23.19:808][615]LogAnimationCompression: Display: Storing compressed animation data for /Game/Characters/Mannequins/Rigs/Poses/Quinn/Quinn_lowerarm_l_anim.Quinn_lowerarm_l_anim, at AnimationSequence/95e19179becc18adb362d7da4d42a2a9cd41bb08
+[2023.10.11-11.23.19:834][615]LogAnimationCompression: Display: Building compressed animation data for AnimSequence /Game/Characters/Mannequins/Rigs/Poses/Quinn/Quinn_thigh_l_anim.Quinn_thigh_l_anim
+[2023.10.11-11.23.19:850][615]LogSkeletalMesh: Display: Waiting for skinned assets to be ready 0/1 (SKM_Quinn) ...
+[2023.10.11-11.23.19:854][615]LogAnimationCompression: Display: Storing compressed animation data for /Game/Characters/Mannequins/Rigs/Poses/Quinn/Quinn_lowerarm_r_anim.Quinn_lowerarm_r_anim, at AnimationSequence/d0de5e06982b87c8e6ef54851661065dc7f34c39
+[2023.10.11-11.23.19:875][615]LogAnimationCompression: Display: Building compressed animation data for AnimSequence /Game/Characters/Mannequins/Rigs/Poses/Quinn/Quinn_thigh_r_anim.Quinn_thigh_r_anim
+[2023.10.11-11.23.19:899][615]LogAnimationCompression: Display: Storing compressed animation data for /Game/Characters/Mannequins/Rigs/Poses/Quinn/Quinn_thigh_l_anim.Quinn_thigh_l_anim, at AnimationSequence/c91c455a39441de3d27b785b1fc78f7b50cbb8db
+[2023.10.11-11.23.19:923][615]LogAnimationCompression: Display: Building compressed animation data for AnimSequence /Game/Characters/Mannequins/Rigs/Poses/Quinn/Quinn_upperarm_l_anim.Quinn_upperarm_l_anim
+[2023.10.11-11.23.19:946][615]LogAnimationCompression: Display: Storing compressed animation data for /Game/Characters/Mannequins/Rigs/Poses/Quinn/Quinn_thigh_r_anim.Quinn_thigh_r_anim, at AnimationSequence/270756baf0b53ee28aa3184391bcb6f200d07cb7
+[2023.10.11-11.23.19:964][615]LogAnimationCompression: Display: Building compressed animation data for AnimSequence /Game/Characters/Mannequins/Rigs/Poses/Quinn/Quinn_upperarm_r_anim.Quinn_upperarm_r_anim
+[2023.10.11-11.23.19:993][615]LogAnimationCompression: Display: Storing compressed animation data for /Game/Characters/Mannequins/Rigs/Poses/Quinn/Quinn_upperarm_l_anim.Quinn_upperarm_l_anim, at AnimationSequence/59fe4ef2a8d385fd7a78b0baea4765cc6c147a8c
+[2023.10.11-11.23.20:022][615]LogAnimationCompression: Display: Storing compressed animation data for /Game/Characters/Mannequins/Rigs/Poses/Quinn/Quinn_upperarm_r_anim.Quinn_upperarm_r_anim, at AnimationSequence/e3d3477a0e39ce7a8a0059f07fafe48c185b65bb
+[2023.10.11-11.23.20:883][615]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2023.10.11-11.23.21:315][615]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2023.10.11-11.23.21:748][615]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2023.10.11-11.23.22:180][615]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2023.10.11-11.23.22:611][615]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2023.10.11-11.23.23:043][615]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2023.10.11-11.23.23:476][615]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2023.10.11-11.23.23:547][615]LogSkeletalMeshReduction: Reducing skeletal mesh for LOD 2 
+[2023.10.11-11.23.23:547][615]LogSkeletalMeshReduction: Reducing skeletal mesh for LOD 3 
+[2023.10.11-11.23.23:908][615]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2023.10.11-11.23.24:341][615]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2023.10.11-11.23.24:772][615]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2023.10.11-11.23.25:204][615]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2023.10.11-11.23.25:637][615]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2023.10.11-11.23.26:068][615]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2023.10.11-11.23.26:497][615]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2023.10.11-11.23.26:928][615]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2023.10.11-11.23.27:360][615]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2023.10.11-11.23.27:793][615]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2023.10.11-11.23.27:916][615]LogSkeletalMesh: Built Skeletal Mesh [8.16s] /Game/Characters/Mannequins/Meshes/SKM_Quinn.SKM_Quinn
+[2023.10.11-11.23.27:921][615]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2023.10.11-11.23.33:190][ 49]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.10.11-11.23.36:909][357]LogDerivedDataCache: C:/Users/min07/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:03.076 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 2031 files in 2811 folders with total size 98 MiB.
+[2023.10.11-11.28.26:302][  0]BlueprintLog: New page: Compile PushableObject01
+[2023.10.11-11.28.26:350][  0]LogUObjectHash: Compacting FUObjectHashTables data took   1.50ms
+[2023.10.11-11.28.26:857][ 35]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.10.11-11.28.27:022][ 35]LogSavePackage: Moving output files for package: /Game/Pushable/PushableObject01
+[2023.10.11-11.28.27:023][ 35]LogSavePackage: Moving '../../../../../../Users/min07/Documents/SeSAC_UE5/Project_1_Snowball/Project_1_Snowball/Saved/PushableObject01289CEFE14CC4DCE020C312B9E9FB4B23.tmp' to '../../../../../../Users/min07/Documents/SeSAC_UE5/Project_1_Snowball/Project_1_Snowball/Content/Pushable/PushableObject01.uasset'
+[2023.10.11-11.28.27:031][ 35]LogFileHelpers: InternalPromptForCheckoutAndSave took 174 ms (total: 5.55 sec)
+[2023.10.11-11.28.27:033][ 35]AssetCheck: New page: Asset Save: PushableObject01
+[2023.10.11-11.28.27:033][ 35]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Pushable/PushableObject01.PushableObject01
+[2023.10.11-11.30.22:186][196]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.10.11-11.30.40:909][423]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.BP_ThirdPersonCharacter
+[2023.10.11-11.30.40:909][423]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.10.11-11.30.40:909][423]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.10.11-11.30.41:285][425]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.10.11-11.30.46:154][730]LogSlate: Window 'BP_ThirdPersonCharacter' being destroyed
+[2023.10.11-11.31.11:080][177]LogAssetEditorSubsystem: Opening Asset editor for SkeletalMesh /Game/Characters/Mannequins/Meshes/SKM_Quinn_Simple.SKM_Quinn_Simple
+[2023.10.11-11.31.11:091][177]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.10.11-11.31.11:091][177]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.10.11-11.31.11:144][177]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_12:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2023.10.11-11.31.11:705][177]LogViewport: Scene viewport resized to 1910x1226, mode Windowed.
+[2023.10.11-11.31.12:197][206]LogMeshUtilities: Finished distance field build in 1.0s - 126x126x21 sparse distance field, 0.5Mb total, 0.0Mb always loaded, 80% occupied, 3 triangles, Floor_Mesh
+[2023.10.11-11.44.32:755][959]LogAssetEditorSubsystem: Opening Asset editor for AnimBlueprint /Game/Characters/Mannequins/Animations/ABP_Manny.ABP_Manny
+[2023.10.11-11.44.32:756][959]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.10.11-11.44.32:756][959]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.10.11-11.44.32:768][959]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.10.11-11.44.32:768][959]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.10.11-11.44.32:777][959]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_14:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2023.10.11-11.44.33:057][959]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.10.11-11.44.33:057][959]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.10.11-11.44.33:228][959]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.10.11-11.44.33:243][959]LogViewport: Scene viewport resized to 636x591, mode Windowed.
+[2023.10.11-11.44.41:654][642]LogWorld: UWorld::CleanupWorld for World_13, bSessionEnded=true, bCleanupResources=true
+[2023.10.11-11.44.41:654][642]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.10.11-11.44.41:673][642]LogWorld: UWorld::CleanupWorld for World_14, bSessionEnded=true, bCleanupResources=true
+[2023.10.11-11.44.41:673][642]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.10.11-11.44.41:774][642]LogWorld: UWorld::CleanupWorld for World_15, bSessionEnded=true, bCleanupResources=true
+[2023.10.11-11.44.41:774][642]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.10.11-11.45.25:994][764]LogViewport: Scene viewport resized to 1764x1235, mode Windowed.
+[2023.10.11-11.46.45:907][ 95]LogWorld: UWorld::CleanupWorld for World_10, bSessionEnded=true, bCleanupResources=true
+[2023.10.11-11.46.45:907][ 95]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.10.11-11.46.54:265][735]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.BP_ThirdPersonCharacter
+[2023.10.11-11.46.54:266][735]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.10.11-11.46.54:266][735]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.10.11-11.46.57:730][  7]LogViewport: Scene viewport resized to 1764x1235, mode Windowed.
+[2023.10.11-11.47.13:125][423]LogWorld: UWorld::CleanupWorld for World_17, bSessionEnded=true, bCleanupResources=true
+[2023.10.11-11.47.13:125][423]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.10.11-11.47.23:904][175]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.BP_ThirdPersonCharacter
+[2023.10.11-11.47.23:904][175]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.10.11-11.47.23:904][175]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.10.11-11.47.32:477][879]LogWorld: UWorld::CleanupWorld for World_12, bSessionEnded=true, bCleanupResources=true
+[2023.10.11-11.47.32:477][879]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.10.11-11.47.34:389][ 19]LogAssetEditorSubsystem: Opening Asset editor for SkeletalMesh /Game/Characters/Mannequins/Meshes/SKM_Quinn_Simple.SKM_Quinn_Simple
+[2023.10.11-11.47.34:390][ 19]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.10.11-11.47.34:391][ 19]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.10.11-11.47.34:399][ 19]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_19:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2023.10.11-11.47.34:642][ 19]LogToolMenus: Warning: Menu already registered : SkeletalMeshEditor.MeshContextMenu
+[2023.10.11-11.47.34:777][ 19]LogViewport: Scene viewport resized to 1910x1226, mode Windowed.
+[2023.10.11-11.49.00:838][242]LogUObjectHash: Compacting FUObjectHashTables data took   1.53ms
+[2023.10.11-11.49.00:840][242]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/ThirdPerson/Maps/ThirdPersonMap' took 0.053
+[2023.10.11-11.49.00:840][242]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter] ([2] browsable assets)...
+[2023.10.11-11.49.00:840][242]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.10.11-11.49.00:900][242]OBJ SavePackage:     Rendered thumbnail for [BlueprintGeneratedClass /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.BP_ThirdPersonCharacter_C]
+[2023.10.11-11.49.00:907][242]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.BP_ThirdPersonCharacter]
+[2023.10.11-11.49.00:907][242]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter]
+[2023.10.11-11.49.00:920][242]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter_Auto7
+[2023.10.11-11.49.00:920][242]LogSavePackage: Moving '../../../../../../Users/min07/Documents/SeSAC_UE5/Project_1_Snowball/Project_1_Snowball/Saved/BP_ThirdPersonCharacter_Auto7CDDDB13D4BE2FBEAB43AF9BF376CB535.tmp' to '../../../../../../Users/min07/Documents/SeSAC_UE5/Project_1_Snowball/Project_1_Snowball/Saved/Autosaves/Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter_Auto7.uasset'
+[2023.10.11-11.49.00:921][242]LogFileHelpers: Auto-saving content packages took 0.081
