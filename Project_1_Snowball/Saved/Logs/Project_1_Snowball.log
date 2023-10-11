@@ -8069,3 +8069,69 @@ LogConfig: Set CVar [[r.setres:1280x720]]
 [2023.10.11-13.08.26:264][164]LogFileHelpers: InternalPromptForCheckoutAndSave took 84 ms (total: 9.16 sec)
 [2023.10.11-13.08.26:265][164]AssetCheck: New page: Asset Save: BP_ThirdPersonCharacter
 [2023.10.11-13.08.26:265][164]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.BP_ThirdPersonCharacter
+[2023.10.11-13.09.50:463][447]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.10.11-13.09.50:542][447]LogSavePackage: Moving output files for package: /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter
+[2023.10.11-13.09.50:542][447]LogSavePackage: Moving '../../../../../../Users/min07/Documents/SeSAC_UE5/Project_1_Snowball/Project_1_Snowball/Saved/BP_ThirdPersonCharacterEDBAD49241CBBB2FF33D0F9751EA4E93.tmp' to '../../../../../../Users/min07/Documents/SeSAC_UE5/Project_1_Snowball/Project_1_Snowball/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset'
+[2023.10.11-13.09.50:551][447]LogFileHelpers: InternalPromptForCheckoutAndSave took 87 ms (total: 9.24 sec)
+[2023.10.11-13.09.50:552][447]AssetCheck: New page: Asset Save: BP_ThirdPersonCharacter
+[2023.10.11-13.09.50:552][447]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.BP_ThirdPersonCharacter
+[2023.10.11-13.09.51:071][509]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.10.11-13.09.51:147][509]LogSavePackage: Moving output files for package: /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter
+[2023.10.11-13.09.51:148][509]LogSavePackage: Moving '../../../../../../Users/min07/Documents/SeSAC_UE5/Project_1_Snowball/Project_1_Snowball/Saved/BP_ThirdPersonCharacter4E2504874DB18F9B073E70AC289FB304.tmp' to '../../../../../../Users/min07/Documents/SeSAC_UE5/Project_1_Snowball/Project_1_Snowball/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset'
+[2023.10.11-13.09.51:157][509]LogFileHelpers: InternalPromptForCheckoutAndSave took 85 ms (total: 9.33 sec)
+[2023.10.11-13.09.51:158][509]AssetCheck: New page: Asset Save: BP_ThirdPersonCharacter
+[2023.10.11-13.09.51:158][509]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.BP_ThirdPersonCharacter
+[2023.10.11-13.09.51:413][539]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.10.11-13.09.51:490][539]LogSavePackage: Moving output files for package: /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter
+[2023.10.11-13.09.51:491][539]LogSavePackage: Moving '../../../../../../Users/min07/Documents/SeSAC_UE5/Project_1_Snowball/Project_1_Snowball/Saved/BP_ThirdPersonCharacter7ED799804256AA88AC0910A6D2AE4BBB.tmp' to '../../../../../../Users/min07/Documents/SeSAC_UE5/Project_1_Snowball/Project_1_Snowball/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset'
+[2023.10.11-13.09.51:499][539]LogFileHelpers: InternalPromptForCheckoutAndSave took 85 ms (total: 9.41 sec)
+[2023.10.11-13.09.51:500][539]AssetCheck: New page: Asset Save: BP_ThirdPersonCharacter
+[2023.10.11-13.09.51:500][539]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.BP_ThirdPersonCharacter
+[2023.10.11-13.09.51:685][561]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.10.11-13.09.51:758][561]LogSavePackage: Moving output files for package: /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter
+[2023.10.11-13.09.51:759][561]LogSavePackage: Moving '../../../../../../Users/min07/Documents/SeSAC_UE5/Project_1_Snowball/Project_1_Snowball/Saved/BP_ThirdPersonCharacter0678B55E409BABCC03F8DD8DD7586352.tmp' to '../../../../../../Users/min07/Documents/SeSAC_UE5/Project_1_Snowball/Project_1_Snowball/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset'
+[2023.10.11-13.09.51:767][561]LogFileHelpers: InternalPromptForCheckoutAndSave took 81 ms (total: 9.50 sec)
+[2023.10.11-13.09.51:768][561]AssetCheck: New page: Asset Save: BP_ThirdPersonCharacter
+[2023.10.11-13.09.51:768][561]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.BP_ThirdPersonCharacter
+[2023.10.11-13.09.51:935][581]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.10.11-13.09.52:007][581]LogSavePackage: Moving output files for package: /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter
+[2023.10.11-13.09.52:007][581]LogSavePackage: Moving '../../../../../../Users/min07/Documents/SeSAC_UE5/Project_1_Snowball/Project_1_Snowball/Saved/BP_ThirdPersonCharacterFB8338C8488C228C886271AA0A45B140.tmp' to '../../../../../../Users/min07/Documents/SeSAC_UE5/Project_1_Snowball/Project_1_Snowball/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset'
+[2023.10.11-13.09.52:015][581]LogFileHelpers: InternalPromptForCheckoutAndSave took 79 ms (total: 9.58 sec)
+[2023.10.11-13.09.52:016][581]AssetCheck: New page: Asset Save: BP_ThirdPersonCharacter
+[2023.10.11-13.09.52:016][581]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.BP_ThirdPersonCharacter
+[2023.10.11-13.09.52:126][594]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.10.11-13.09.52:191][594]LogSavePackage: Moving output files for package: /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter
+[2023.10.11-13.09.52:192][594]LogSavePackage: Moving '../../../../../../Users/min07/Documents/SeSAC_UE5/Project_1_Snowball/Project_1_Snowball/Saved/BP_ThirdPersonCharacter4EFAA54A4568DEFB19E14CB2F00A4DB0.tmp' to '../../../../../../Users/min07/Documents/SeSAC_UE5/Project_1_Snowball/Project_1_Snowball/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset'
+[2023.10.11-13.09.52:200][594]LogFileHelpers: InternalPromptForCheckoutAndSave took 74 ms (total: 9.65 sec)
+[2023.10.11-13.09.52:202][594]AssetCheck: New page: Asset Save: BP_ThirdPersonCharacter
+[2023.10.11-13.09.52:202][594]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.BP_ThirdPersonCharacter
+[2023.10.11-13.09.52:295][605]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.10.11-13.09.52:357][605]LogSavePackage: Moving output files for package: /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter
+[2023.10.11-13.09.52:358][605]LogSavePackage: Moving '../../../../../../Users/min07/Documents/SeSAC_UE5/Project_1_Snowball/Project_1_Snowball/Saved/BP_ThirdPersonCharacterD2E5D3714A43AB8DF3E20886E812CD6A.tmp' to '../../../../../../Users/min07/Documents/SeSAC_UE5/Project_1_Snowball/Project_1_Snowball/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset'
+[2023.10.11-13.09.52:366][605]LogFileHelpers: InternalPromptForCheckoutAndSave took 71 ms (total: 9.72 sec)
+[2023.10.11-13.09.52:367][605]AssetCheck: New page: Asset Save: BP_ThirdPersonCharacter
+[2023.10.11-13.09.52:367][605]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.BP_ThirdPersonCharacter
+[2023.10.11-13.09.52:460][616]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.10.11-13.09.52:510][616]LogSavePackage: Moving output files for package: /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter
+[2023.10.11-13.09.52:510][616]LogSavePackage: Moving '../../../../../../Users/min07/Documents/SeSAC_UE5/Project_1_Snowball/Project_1_Snowball/Saved/BP_ThirdPersonCharacterBCC8BD8A4357983D669FE3B64D463156.tmp' to '../../../../../../Users/min07/Documents/SeSAC_UE5/Project_1_Snowball/Project_1_Snowball/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset'
+[2023.10.11-13.09.52:518][616]LogFileHelpers: InternalPromptForCheckoutAndSave took 58 ms (total: 9.78 sec)
+[2023.10.11-13.09.52:520][616]AssetCheck: New page: Asset Save: BP_ThirdPersonCharacter
+[2023.10.11-13.09.52:520][616]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.BP_ThirdPersonCharacter
+[2023.10.11-13.09.52:611][627]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.10.11-13.09.52:674][627]LogSavePackage: Moving output files for package: /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter
+[2023.10.11-13.09.52:675][627]LogSavePackage: Moving '../../../../../../Users/min07/Documents/SeSAC_UE5/Project_1_Snowball/Project_1_Snowball/Saved/BP_ThirdPersonCharacter54C844BE46ABD1ED2B022FB16DD45B7C.tmp' to '../../../../../../Users/min07/Documents/SeSAC_UE5/Project_1_Snowball/Project_1_Snowball/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset'
+[2023.10.11-13.09.52:683][627]LogFileHelpers: InternalPromptForCheckoutAndSave took 70 ms (total: 9.85 sec)
+[2023.10.11-13.09.52:684][627]AssetCheck: New page: Asset Save: BP_ThirdPersonCharacter
+[2023.10.11-13.09.52:684][627]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.BP_ThirdPersonCharacter
+[2023.10.11-13.09.52:919][655]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.10.11-13.09.52:974][655]LogSavePackage: Moving output files for package: /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter
+[2023.10.11-13.09.52:974][655]LogSavePackage: Moving '../../../../../../Users/min07/Documents/SeSAC_UE5/Project_1_Snowball/Project_1_Snowball/Saved/BP_ThirdPersonCharacter8480C25D4556458BFAB19CADB71C988D.tmp' to '../../../../../../Users/min07/Documents/SeSAC_UE5/Project_1_Snowball/Project_1_Snowball/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset'
+[2023.10.11-13.09.52:983][655]LogFileHelpers: InternalPromptForCheckoutAndSave took 65 ms (total: 9.92 sec)
+[2023.10.11-13.09.52:985][655]AssetCheck: New page: Asset Save: BP_ThirdPersonCharacter
+[2023.10.11-13.09.52:985][655]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.BP_ThirdPersonCharacter
+[2023.10.11-13.09.53:386][703]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.10.11-13.09.53:465][703]LogSavePackage: Moving output files for package: /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter
+[2023.10.11-13.09.53:466][703]LogSavePackage: Moving '../../../../../../Users/min07/Documents/SeSAC_UE5/Project_1_Snowball/Project_1_Snowball/Saved/BP_ThirdPersonCharacter73F9762C41CE7C51E1F5C3A84879B4B3.tmp' to '../../../../../../Users/min07/Documents/SeSAC_UE5/Project_1_Snowball/Project_1_Snowball/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset'
+[2023.10.11-13.09.53:473][703]LogFileHelpers: InternalPromptForCheckoutAndSave took 87 ms (total: 10.0 sec)
+[2023.10.11-13.09.53:475][703]AssetCheck: New page: Asset Save: BP_ThirdPersonCharacter
+[2023.10.11-13.09.53:475][703]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.BP_ThirdPersonCharacter
