@@ -4743,3 +4743,371 @@ LogConfig: Set CVar [[r.setres:1280x720]]
 [2023.10.11-10.50.06:827][552]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=33
 [2023.10.11-10.50.06:835][552]LogUObjectHash: Compacting FUObjectHashTables data took   1.23ms
 [2023.10.11-10.50.06:932][553]LogPlayLevel: Display: Destroying online subsystem :Context_37
+[2023.10.11-10.56.30:885][574]LogUObjectHash: Compacting FUObjectHashTables data took   1.49ms
+[2023.10.11-10.56.30:887][574]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/ThirdPerson/Maps/ThirdPersonMap' took 0.018
+[2023.10.11-10.57.22:429][168]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2023.10.11-10.57.22:434][168]LogContentBundle: [ThirdPersonMap(Standalone)] Generating Streaming for 0 Content Bundles.
+[2023.10.11-10.57.22:434][168]LogWorldPartition: Display: GenerateStreaming for 'ThirdPersonMap' started...
+[2023.10.11-10.57.22:436][168]LogWorldPartition: Display: GenerateStreaming for 'ThirdPersonMap' took 2 ms (total: 59 ms)
+[2023.10.11-10.57.22:436][168]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.10.11-10.57.22:436][168]PIE: New page: PIE session: ThirdPersonMap (2023. 10. 12. 오전 4:57:22)
+[2023.10.11-10.57.22:437][168]LogPlayLevel: Creating play world package: /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap
+[2023.10.11-10.57.22:441][168]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003977s)
+[2023.10.11-10.57.22:441][168]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap to /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap (0.004017s)
+[2023.10.11-10.57.22:456][168]LogUObjectHash: Compacting FUObjectHashTables data took   1.45ms
+[2023.10.11-10.57.22:458][168]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.10.11-10.57.22:458][168]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.10.11-10.57.22:458][168]LogAIModule: Creating AISystem for world ThirdPersonMap
+[2023.10.11-10.57.22:459][168]LogWorldPartition: ULevel::OnLevelLoaded(ThirdPersonMap)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2023.10.11-10.57.22:459][168]LogWorldPartition: Display: WorldPartition initialize started...
+[2023.10.11-10.57.22:459][168]LogWorldPartition: UWorldPartition::Initialize : World = ThirdPersonMap, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2023.10.11-10.57.22:459][168]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2023.10.11-10.57.22:460][168]LogContentBundle: [ThirdPersonMap(Standalone)] Creating new contrainer.
+[2023.10.11-10.57.22:460][168]LogWorldPartition: Display: WorldPartition initialize took 1 ms (total: 118 ms)
+[2023.10.11-10.57.22:460][168]LogPlayLevel: PIE: World Init took: (0.002295s)
+[2023.10.11-10.57.22:460][168]LogAudio: Display: Creating Audio Device:                 Id: 34, Scope: Unique, Realtime: True
+[2023.10.11-10.57.22:460][168]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.10.11-10.57.22:460][168]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.10.11-10.57.22:460][168]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.10.11-10.57.22:460][168]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.10.11-10.57.22:460][168]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2023.10.11-10.57.22:460][168]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2023.10.11-10.57.22:460][168]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2023.10.11-10.57.22:460][168]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.10.11-10.57.22:461][168]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.10.11-10.57.22:461][168]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.10.11-10.57.22:461][168]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.10.11-10.57.22:463][168]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.10.11-10.57.22:486][168]LogAudioMixer: Display: Using Audio Hardware Device 2750(NVIDIA High Definition Audio)
+[2023.10.11-10.57.22:486][168]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.10.11-10.57.22:486][168]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.10.11-10.57.22:486][168]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.10.11-10.57.22:487][168]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=34
+[2023.10.11-10.57.22:487][168]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=34
+[2023.10.11-10.57.22:488][168]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=34
+[2023.10.11-10.57.22:489][168]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=34
+[2023.10.11-10.57.22:489][168]LogInit: FAudioDevice initialized with ID 34.
+[2023.10.11-10.57.22:489][168]LogAudio: Display: Audio Device (ID: 34) registered with world 'ThirdPersonMap'.
+[2023.10.11-10.57.22:489][168]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 34
+[2023.10.11-10.57.22:537][168]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.10.11-10.57.22:537][168]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2023.10.11-10.57.22:539][168]LogWorld: Bringing World /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap up for play (max tick rate 0) at 2023.10.11-19.57.22
+[2023.10.11-10.57.22:539][168]LogWorld: Bringing up level for play took: 0.001974
+[2023.10.11-10.57.22:542][168]LogOnline: OSS: Created online subsystem instance for: :Context_38
+[2023.10.11-10.57.22:548][168]PIE: Server logged in
+[2023.10.11-10.57.22:550][168]PIE: Play in editor total start time 0.116 seconds.
+[2023.10.11-10.57.22:563][168]LogViewport: Scene viewport resized to 1280x720, mode Windowed.
+[2023.10.11-10.57.25:205][337]LogBlueprintUserMessages: [PushableObject01_C_UAID_244BFEBB8C4E67B101_1533749205] 
+[2023.10.11-10.57.27:068][469]LogBlueprintUserMessages: [PushableObject01_C_UAID_244BFEBB8C4E67B101_1533749205] 
+[2023.10.11-10.57.28:657][583]LogBlueprintUserMessages: [PushableObject01_C_UAID_244BFEBB8C4E67B101_1533749205] 
+[2023.10.11-10.57.33:178][905]LogBlueprintUserMessages: [PushableObject01_C_UAID_244BFEBB8C4E67B101_1533749205] 
+[2023.10.11-10.57.34:254][982]LogBlueprintUserMessages: [PushableObject01_C_UAID_244BFEBB8C4E67B101_1533749205] SM_QuarterCylinder11.StaticMeshComponent0 SM_QuarterCylinder
+[2023.10.11-10.57.35:785][ 91]LogBlueprintUserMessages: [PushableObject01_C_UAID_244BFEBB8C4E67B101_1533749205] 
+[2023.10.11-10.57.38:316][270]LogBlueprintUserMessages: [PushableObject01_C_UAID_244BFEBB8C4E67B101_1533749205] SM_QuarterCylinder12.StaticMeshComponent0 SM_QuarterCylinder
+[2023.10.11-10.57.38:331][271]LogBlueprintUserMessages: [PushableObject01_C_UAID_244BFEBB8C4E67B101_1533749205] SM_QuarterCylinder12.StaticMeshComponent0 SM_QuarterCylinder
+[2023.10.11-10.57.38:344][272]LogBlueprintUserMessages: [PushableObject01_C_UAID_244BFEBB8C4E67B101_1533749205] SM_QuarterCylinder12.StaticMeshComponent0 SM_QuarterCylinder
+[2023.10.11-10.57.38:359][273]LogBlueprintUserMessages: [PushableObject01_C_UAID_244BFEBB8C4E67B101_1533749205] SM_QuarterCylinder12.StaticMeshComponent0 SM_QuarterCylinder
+[2023.10.11-10.57.38:375][274]LogBlueprintUserMessages: [PushableObject01_C_UAID_244BFEBB8C4E67B101_1533749205] SM_QuarterCylinder12.StaticMeshComponent0 SM_QuarterCylinder
+[2023.10.11-10.57.38:388][275]LogBlueprintUserMessages: [PushableObject01_C_UAID_244BFEBB8C4E67B101_1533749205] SM_QuarterCylinder12.StaticMeshComponent0 SM_QuarterCylinder
+[2023.10.11-10.57.38:404][276]LogBlueprintUserMessages: [PushableObject01_C_UAID_244BFEBB8C4E67B101_1533749205] SM_QuarterCylinder12.StaticMeshComponent0 SM_QuarterCylinder
+[2023.10.11-10.57.38:418][277]LogBlueprintUserMessages: [PushableObject01_C_UAID_244BFEBB8C4E67B101_1533749205] SM_QuarterCylinder12.StaticMeshComponent0 SM_QuarterCylinder
+[2023.10.11-10.57.38:432][278]LogBlueprintUserMessages: [PushableObject01_C_UAID_244BFEBB8C4E67B101_1533749205] SM_QuarterCylinder12.StaticMeshComponent0 SM_QuarterCylinder
+[2023.10.11-10.57.38:446][279]LogBlueprintUserMessages: [PushableObject01_C_UAID_244BFEBB8C4E67B101_1533749205] SM_QuarterCylinder12.StaticMeshComponent0 SM_QuarterCylinder
+[2023.10.11-10.57.38:462][280]LogBlueprintUserMessages: [PushableObject01_C_UAID_244BFEBB8C4E67B101_1533749205] SM_QuarterCylinder12.StaticMeshComponent0 SM_QuarterCylinder
+[2023.10.11-10.57.38:476][281]LogBlueprintUserMessages: [PushableObject01_C_UAID_244BFEBB8C4E67B101_1533749205] SM_QuarterCylinder12.StaticMeshComponent0 SM_QuarterCylinder
+[2023.10.11-10.57.38:490][282]LogBlueprintUserMessages: [PushableObject01_C_UAID_244BFEBB8C4E67B101_1533749205] SM_QuarterCylinder12.StaticMeshComponent0 SM_QuarterCylinder
+[2023.10.11-10.57.38:504][283]LogBlueprintUserMessages: [PushableObject01_C_UAID_244BFEBB8C4E67B101_1533749205] SM_QuarterCylinder12.StaticMeshComponent0 SM_QuarterCylinder
+[2023.10.11-10.57.38:519][284]LogBlueprintUserMessages: [PushableObject01_C_UAID_244BFEBB8C4E67B101_1533749205] SM_QuarterCylinder12.StaticMeshComponent0 SM_QuarterCylinder
+[2023.10.11-10.57.38:533][285]LogBlueprintUserMessages: [PushableObject01_C_UAID_244BFEBB8C4E67B101_1533749205] SM_QuarterCylinder12.StaticMeshComponent0 SM_QuarterCylinder
+[2023.10.11-10.57.38:547][286]LogBlueprintUserMessages: [PushableObject01_C_UAID_244BFEBB8C4E67B101_1533749205] SM_QuarterCylinder12.StaticMeshComponent0 SM_QuarterCylinder
+[2023.10.11-10.57.38:946][314]LogBlueprintUserMessages: [PushableObject01_C_UAID_244BFEBB8C4E67B101_1533749205] 
+[2023.10.11-10.57.44:615][706]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.10.11-10.57.44:615][706]LogWorld: BeginTearingDown for /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap
+[2023.10.11-10.57.44:616][706]LogSlate: Window 'Project_1_Snowball Preview [NetMode: Standalone 0]  (64-bit/PC D3D SM6)' being destroyed
+[2023.10.11-10.57.44:620][706]LogWorld: UWorld::CleanupWorld for ThirdPersonMap, bSessionEnded=true, bCleanupResources=true
+[2023.10.11-10.57.44:620][706]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.10.11-10.57.44:620][706]LogContentBundle: [ThirdPersonMap(Standalone)] Deleting container.
+[2023.10.11-10.57.44:662][706]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.10.11-10.57.44:666][706]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.10.11-10.57.44:680][706]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.10.11-10.57.44:680][706]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 34
+[2023.10.11-10.57.44:680][706]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=34
+[2023.10.11-10.57.44:682][706]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=34
+[2023.10.11-10.57.44:688][706]LogUObjectHash: Compacting FUObjectHashTables data took   1.40ms
+[2023.10.11-10.57.44:788][707]LogPlayLevel: Display: Destroying online subsystem :Context_38
+[2023.10.11-11.03.51:549][794]BlueprintLog: New page: Compile PushableObject01
+[2023.10.11-11.03.51:591][794]LogUObjectHash: Compacting FUObjectHashTables data took   1.33ms
+[2023.10.11-11.03.53:364][966]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2023.10.11-11.03.53:369][966]LogContentBundle: [ThirdPersonMap(Standalone)] Generating Streaming for 0 Content Bundles.
+[2023.10.11-11.03.53:369][966]LogWorldPartition: Display: GenerateStreaming for 'ThirdPersonMap' started...
+[2023.10.11-11.03.53:370][966]LogWorldPartition: Display: GenerateStreaming for 'ThirdPersonMap' took 1 ms (total: 61 ms)
+[2023.10.11-11.03.53:370][966]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.10.11-11.03.53:370][966]PIE: New page: PIE session: ThirdPersonMap (2023. 10. 12. 오전 5:03:53)
+[2023.10.11-11.03.53:371][966]LogPlayLevel: Creating play world package: /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap
+[2023.10.11-11.03.53:376][966]LogPlayLevel: PIE: StaticDuplicateObject took: (0.005534s)
+[2023.10.11-11.03.53:376][966]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap to /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap (0.005578s)
+[2023.10.11-11.03.53:390][966]LogUObjectHash: Compacting FUObjectHashTables data took   1.13ms
+[2023.10.11-11.03.53:392][966]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.10.11-11.03.53:392][966]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.10.11-11.03.53:392][966]LogAIModule: Creating AISystem for world ThirdPersonMap
+[2023.10.11-11.03.53:393][966]LogWorldPartition: ULevel::OnLevelLoaded(ThirdPersonMap)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2023.10.11-11.03.53:393][966]LogWorldPartition: Display: WorldPartition initialize started...
+[2023.10.11-11.03.53:393][966]LogWorldPartition: UWorldPartition::Initialize : World = ThirdPersonMap, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2023.10.11-11.03.53:393][966]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2023.10.11-11.03.53:394][966]LogContentBundle: [ThirdPersonMap(Standalone)] Creating new contrainer.
+[2023.10.11-11.03.53:394][966]LogWorldPartition: Display: WorldPartition initialize took 965 us (total: 119 ms)
+[2023.10.11-11.03.53:394][966]LogPlayLevel: PIE: World Init took: (0.002090s)
+[2023.10.11-11.03.53:394][966]LogAudio: Display: Creating Audio Device:                 Id: 35, Scope: Unique, Realtime: True
+[2023.10.11-11.03.53:394][966]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.10.11-11.03.53:394][966]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.10.11-11.03.53:394][966]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.10.11-11.03.53:394][966]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.10.11-11.03.53:394][966]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2023.10.11-11.03.53:394][966]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2023.10.11-11.03.53:394][966]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2023.10.11-11.03.53:394][966]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.10.11-11.03.53:395][966]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.10.11-11.03.53:395][966]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.10.11-11.03.53:395][966]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.10.11-11.03.53:396][966]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.10.11-11.03.53:419][966]LogAudioMixer: Display: Using Audio Hardware Device 2750(NVIDIA High Definition Audio)
+[2023.10.11-11.03.53:419][966]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.10.11-11.03.53:419][966]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.10.11-11.03.53:419][966]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.10.11-11.03.53:420][966]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=35
+[2023.10.11-11.03.53:420][966]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=35
+[2023.10.11-11.03.53:422][966]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=35
+[2023.10.11-11.03.53:422][966]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=35
+[2023.10.11-11.03.53:422][966]LogInit: FAudioDevice initialized with ID 35.
+[2023.10.11-11.03.53:422][966]LogAudio: Display: Audio Device (ID: 35) registered with world 'ThirdPersonMap'.
+[2023.10.11-11.03.53:422][966]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 35
+[2023.10.11-11.03.53:484][966]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.10.11-11.03.53:484][966]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2023.10.11-11.03.53:486][966]LogWorld: Bringing World /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap up for play (max tick rate 0) at 2023.10.11-20.03.53
+[2023.10.11-11.03.53:486][966]LogWorld: Bringing up level for play took: 0.002262
+[2023.10.11-11.03.53:489][966]LogOnline: OSS: Created online subsystem instance for: :Context_39
+[2023.10.11-11.03.53:496][966]PIE: Server logged in
+[2023.10.11-11.03.53:497][966]PIE: Play in editor total start time 0.129 seconds.
+[2023.10.11-11.03.53:511][966]LogViewport: Scene viewport resized to 1280x720, mode Windowed.
+[2023.10.11-11.03.54:923][ 55]LogBlueprintUserMessages: [PushableObject01_C_UAID_244BFEBB8C4E67B101_1533749205] 
+[2023.10.11-11.03.55:947][127]LogBlueprintUserMessages: [PushableObject01_C_UAID_244BFEBB8C4E67B101_1533749205] 
+[2023.10.11-11.03.56:957][203]LogBlueprintUserMessages: [PushableObject01_C_UAID_244BFEBB8C4E67B101_1533749205] 
+[2023.10.11-11.03.57:962][278]LogBlueprintUserMessages: [PushableObject01_C_UAID_244BFEBB8C4E67B101_1533749205] 
+[2023.10.11-11.03.58:972][354]LogBlueprintUserMessages: [PushableObject01_C_UAID_244BFEBB8C4E67B101_1533749205] 
+[2023.10.11-11.04.03:307][677]LogBlueprintUserMessages: [PushableObject01_C_UAID_244BFEBB8C4E67B101_1533749205] 
+[2023.10.11-11.04.07:816][ 15]LogBlueprintUserMessages: [PushableObject01_C_UAID_244BFEBB8C4E67B101_1533749205] 
+[2023.10.11-11.04.08:483][ 63]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.10.11-11.04.08:483][ 63]LogWorld: BeginTearingDown for /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap
+[2023.10.11-11.04.08:484][ 63]LogSlate: Window 'Project_1_Snowball Preview [NetMode: Standalone 0]  (64-bit/PC D3D SM6)' being destroyed
+[2023.10.11-11.04.08:488][ 63]LogWorld: UWorld::CleanupWorld for ThirdPersonMap, bSessionEnded=true, bCleanupResources=true
+[2023.10.11-11.04.08:489][ 63]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.10.11-11.04.08:489][ 63]LogContentBundle: [ThirdPersonMap(Standalone)] Deleting container.
+[2023.10.11-11.04.08:532][ 63]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.10.11-11.04.08:536][ 63]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.10.11-11.04.08:551][ 63]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.10.11-11.04.08:551][ 63]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 35
+[2023.10.11-11.04.08:551][ 63]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=35
+[2023.10.11-11.04.08:553][ 63]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=35
+[2023.10.11-11.04.08:560][ 63]LogUObjectHash: Compacting FUObjectHashTables data took   1.37ms
+[2023.10.11-11.04.08:660][ 64]LogPlayLevel: Display: Destroying online subsystem :Context_39
+[2023.10.11-11.06.02:415][201]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.10.11-11.06.02:543][201]LogSavePackage: Moving output files for package: /Game/Pushable/PushableObject01
+[2023.10.11-11.06.02:543][201]LogSavePackage: Moving '../../../../../../Users/min07/Documents/SeSAC_UE5/Project_1_Snowball/Project_1_Snowball/Saved/PushableObject01631CACDB4EAF519EE5AD23844FF04FA3.tmp' to '../../../../../../Users/min07/Documents/SeSAC_UE5/Project_1_Snowball/Project_1_Snowball/Content/Pushable/PushableObject01.uasset'
+[2023.10.11-11.06.02:550][201]LogFileHelpers: InternalPromptForCheckoutAndSave took 135 ms (total: 5.14 sec)
+[2023.10.11-11.06.02:552][201]AssetCheck: New page: Asset Save: PushableObject01
+[2023.10.11-11.06.02:552][201]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Pushable/PushableObject01.PushableObject01
+[2023.10.11-11.06.04:030][366]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2023.10.11-11.06.04:034][366]LogContentBundle: [ThirdPersonMap(Standalone)] Generating Streaming for 0 Content Bundles.
+[2023.10.11-11.06.04:035][366]LogWorldPartition: Display: GenerateStreaming for 'ThirdPersonMap' started...
+[2023.10.11-11.06.04:036][366]LogWorldPartition: Display: GenerateStreaming for 'ThirdPersonMap' took 1 ms (total: 62 ms)
+[2023.10.11-11.06.04:036][366]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.10.11-11.06.04:036][366]PIE: New page: PIE session: ThirdPersonMap (2023. 10. 12. 오전 5:06:04)
+[2023.10.11-11.06.04:036][366]LogPlayLevel: Creating play world package: /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap
+[2023.10.11-11.06.04:041][366]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004728s)
+[2023.10.11-11.06.04:041][366]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap to /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap (0.004775s)
+[2023.10.11-11.06.04:053][366]LogUObjectHash: Compacting FUObjectHashTables data took   0.95ms
+[2023.10.11-11.06.04:054][366]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.10.11-11.06.04:055][366]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.10.11-11.06.04:055][366]LogAIModule: Creating AISystem for world ThirdPersonMap
+[2023.10.11-11.06.04:056][366]LogWorldPartition: ULevel::OnLevelLoaded(ThirdPersonMap)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2023.10.11-11.06.04:056][366]LogWorldPartition: Display: WorldPartition initialize started...
+[2023.10.11-11.06.04:056][366]LogWorldPartition: UWorldPartition::Initialize : World = ThirdPersonMap, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2023.10.11-11.06.04:056][366]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2023.10.11-11.06.04:057][366]LogContentBundle: [ThirdPersonMap(Standalone)] Creating new contrainer.
+[2023.10.11-11.06.04:057][366]LogWorldPartition: Display: WorldPartition initialize took 1 ms (total: 120 ms)
+[2023.10.11-11.06.04:057][366]LogPlayLevel: PIE: World Init took: (0.002322s)
+[2023.10.11-11.06.04:057][366]LogAudio: Display: Creating Audio Device:                 Id: 36, Scope: Unique, Realtime: True
+[2023.10.11-11.06.04:057][366]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.10.11-11.06.04:057][366]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.10.11-11.06.04:057][366]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.10.11-11.06.04:057][366]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.10.11-11.06.04:057][366]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2023.10.11-11.06.04:057][366]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2023.10.11-11.06.04:057][366]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2023.10.11-11.06.04:057][366]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.10.11-11.06.04:058][366]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.10.11-11.06.04:058][366]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.10.11-11.06.04:058][366]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.10.11-11.06.04:059][366]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.10.11-11.06.04:082][366]LogAudioMixer: Display: Using Audio Hardware Device 2750(NVIDIA High Definition Audio)
+[2023.10.11-11.06.04:083][366]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.10.11-11.06.04:083][366]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.10.11-11.06.04:083][366]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.10.11-11.06.04:083][366]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=36
+[2023.10.11-11.06.04:083][366]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=36
+[2023.10.11-11.06.04:085][366]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=36
+[2023.10.11-11.06.04:085][366]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=36
+[2023.10.11-11.06.04:085][366]LogInit: FAudioDevice initialized with ID 36.
+[2023.10.11-11.06.04:085][366]LogAudio: Display: Audio Device (ID: 36) registered with world 'ThirdPersonMap'.
+[2023.10.11-11.06.04:085][366]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 36
+[2023.10.11-11.06.04:133][366]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.10.11-11.06.04:133][366]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2023.10.11-11.06.04:135][366]LogWorld: Bringing World /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap up for play (max tick rate 0) at 2023.10.11-20.06.04
+[2023.10.11-11.06.04:136][366]LogWorld: Bringing up level for play took: 0.002255
+[2023.10.11-11.06.04:138][366]LogOnline: OSS: Created online subsystem instance for: :Context_40
+[2023.10.11-11.06.04:144][366]PIE: Server logged in
+[2023.10.11-11.06.04:146][366]PIE: Play in editor total start time 0.112 seconds.
+[2023.10.11-11.06.04:159][366]LogViewport: Scene viewport resized to 1280x720, mode Windowed.
+[2023.10.11-11.06.05:694][472]LogBlueprintUserMessages: [PushableObject01_C_UAID_244BFEBB8C4E67B101_1533749205] 
+[2023.10.11-11.06.06:715][552]LogBlueprintUserMessages: [PushableObject01_C_UAID_244BFEBB8C4E67B101_1533749205] 
+[2023.10.11-11.06.07:715][631]LogBlueprintUserMessages: [PushableObject01_C_UAID_244BFEBB8C4E67B101_1533749205] 
+[2023.10.11-11.06.08:721][710]LogBlueprintUserMessages: [PushableObject01_C_UAID_244BFEBB8C4E67B101_1533749205] 
+[2023.10.11-11.06.12:029][969]LogBlueprintUserMessages: [PushableObject01_C_UAID_244BFEBB8C4E67B101_1533749205] 
+[2023.10.11-11.06.16:115][288]LogBlueprintUserMessages: [PushableObject01_C_UAID_244BFEBB8C4E67B101_1533749205] 
+[2023.10.11-11.06.17:115][367]LogBlueprintUserMessages: [PushableObject01_C_UAID_244BFEBB8C4E67B101_1533749205] 
+[2023.10.11-11.06.19:587][558]LogBlueprintUserMessages: [PushableObject01_C_UAID_244BFEBB8C4E67B101_1533749205] 
+[2023.10.11-11.06.20:613][638]LogBlueprintUserMessages: [PushableObject01_C_UAID_244BFEBB8C4E67B101_1533749205] 
+[2023.10.11-11.06.21:618][717]LogBlueprintUserMessages: [PushableObject01_C_UAID_244BFEBB8C4E67B101_1533749205] 
+[2023.10.11-11.06.22:645][794]LogBlueprintUserMessages: [PushableObject01_C_UAID_244BFEBB8C4E67B101_1533749205] SM_Cube4.StaticMeshComponent0 SM_Cube
+[2023.10.11-11.06.22:658][795]LogBlueprintUserMessages: [PushableObject01_C_UAID_244BFEBB8C4E67B101_1533749205] SM_Cube4.StaticMeshComponent0 SM_Cube
+[2023.10.11-11.06.22:670][796]LogBlueprintUserMessages: [PushableObject01_C_UAID_244BFEBB8C4E67B101_1533749205] SM_Cube4.StaticMeshComponent0 SM_Cube
+[2023.10.11-11.06.22:683][797]LogBlueprintUserMessages: [PushableObject01_C_UAID_244BFEBB8C4E67B101_1533749205] SM_Cube4.StaticMeshComponent0 SM_Cube
+[2023.10.11-11.06.22:697][798]LogBlueprintUserMessages: [PushableObject01_C_UAID_244BFEBB8C4E67B101_1533749205] SM_Cube4.StaticMeshComponent0 SM_Cube
+[2023.10.11-11.06.22:710][799]LogBlueprintUserMessages: [PushableObject01_C_UAID_244BFEBB8C4E67B101_1533749205] SM_Cube4.StaticMeshComponent0 SM_Cube
+[2023.10.11-11.06.22:723][800]LogBlueprintUserMessages: [PushableObject01_C_UAID_244BFEBB8C4E67B101_1533749205] SM_Cube4.StaticMeshComponent0 SM_Cube
+[2023.10.11-11.06.22:735][801]LogBlueprintUserMessages: [PushableObject01_C_UAID_244BFEBB8C4E67B101_1533749205] SM_Cube4.StaticMeshComponent0 SM_Cube
+[2023.10.11-11.06.22:748][802]LogBlueprintUserMessages: [PushableObject01_C_UAID_244BFEBB8C4E67B101_1533749205] SM_Cube4.StaticMeshComponent0 SM_Cube
+[2023.10.11-11.06.22:761][803]LogBlueprintUserMessages: [PushableObject01_C_UAID_244BFEBB8C4E67B101_1533749205] SM_Cube4.StaticMeshComponent0 SM_Cube
+[2023.10.11-11.06.22:775][804]LogBlueprintUserMessages: [PushableObject01_C_UAID_244BFEBB8C4E67B101_1533749205] SM_Cube4.StaticMeshComponent0 SM_Cube
+[2023.10.11-11.06.22:887][813]LogBlueprintUserMessages: [PushableObject01_C_UAID_244BFEBB8C4E67B101_1533749205] SM_Cube4.StaticMeshComponent0 SM_Cube
+[2023.10.11-11.06.22:900][814]LogBlueprintUserMessages: [PushableObject01_C_UAID_244BFEBB8C4E67B101_1533749205] SM_Cube4.StaticMeshComponent0 SM_Cube
+[2023.10.11-11.06.22:913][815]LogBlueprintUserMessages: [PushableObject01_C_UAID_244BFEBB8C4E67B101_1533749205] SM_Cube4.StaticMeshComponent0 SM_Cube
+[2023.10.11-11.06.24:408][930]LogBlueprintUserMessages: [PushableObject01_C_UAID_244BFEBB8C4E67B101_1533749205] SM_Ramp2.StaticMeshComponent0 SM_Ramp
+[2023.10.11-11.06.24:420][931]LogBlueprintUserMessages: [PushableObject01_C_UAID_244BFEBB8C4E67B101_1533749205] SM_Ramp2.StaticMeshComponent0 SM_Ramp
+[2023.10.11-11.06.24:433][932]LogBlueprintUserMessages: [PushableObject01_C_UAID_244BFEBB8C4E67B101_1533749205] SM_Ramp2.StaticMeshComponent0 SM_Ramp
+[2023.10.11-11.06.24:446][933]LogBlueprintUserMessages: [PushableObject01_C_UAID_244BFEBB8C4E67B101_1533749205] SM_Ramp2.StaticMeshComponent0 SM_Ramp
+[2023.10.11-11.06.24:459][934]LogBlueprintUserMessages: [PushableObject01_C_UAID_244BFEBB8C4E67B101_1533749205] SM_Ramp2.StaticMeshComponent0 SM_Ramp
+[2023.10.11-11.06.24:472][935]LogBlueprintUserMessages: [PushableObject01_C_UAID_244BFEBB8C4E67B101_1533749205] SM_Ramp2.StaticMeshComponent0 SM_Ramp
+[2023.10.11-11.06.24:485][936]LogBlueprintUserMessages: [PushableObject01_C_UAID_244BFEBB8C4E67B101_1533749205] SM_Ramp2.StaticMeshComponent0 SM_Ramp
+[2023.10.11-11.06.28:028][210]LogBlueprintUserMessages: [PushableObject01_C_UAID_244BFEBB8C4E67B101_1533749205] SM_Cube4.StaticMeshComponent0 SM_Cube
+[2023.10.11-11.06.28:041][211]LogBlueprintUserMessages: [PushableObject01_C_UAID_244BFEBB8C4E67B101_1533749205] SM_Cube4.StaticMeshComponent0 SM_Cube
+[2023.10.11-11.06.28:053][212]LogBlueprintUserMessages: [PushableObject01_C_UAID_244BFEBB8C4E67B101_1533749205] SM_Cube4.StaticMeshComponent0 SM_Cube
+[2023.10.11-11.06.28:066][213]LogBlueprintUserMessages: [PushableObject01_C_UAID_244BFEBB8C4E67B101_1533749205] SM_Cube4.StaticMeshComponent0 SM_Cube
+[2023.10.11-11.06.28:078][214]LogBlueprintUserMessages: [PushableObject01_C_UAID_244BFEBB8C4E67B101_1533749205] SM_Cube4.StaticMeshComponent0 SM_Cube
+[2023.10.11-11.06.28:091][215]LogBlueprintUserMessages: [PushableObject01_C_UAID_244BFEBB8C4E67B101_1533749205] SM_Cube4.StaticMeshComponent0 SM_Cube
+[2023.10.11-11.06.28:104][216]LogBlueprintUserMessages: [PushableObject01_C_UAID_244BFEBB8C4E67B101_1533749205] 
+[2023.10.11-11.06.30:925][435]LogBlueprintUserMessages: [PushableObject01_C_UAID_244BFEBB8C4E67B101_1533749205] 
+[2023.10.11-11.06.31:939][514]LogBlueprintUserMessages: [PushableObject01_C_UAID_244BFEBB8C4E67B101_1533749205] SM_Ramp2.StaticMeshComponent0 SM_Ramp
+[2023.10.11-11.06.31:951][515]LogBlueprintUserMessages: [PushableObject01_C_UAID_244BFEBB8C4E67B101_1533749205] SM_Ramp2.StaticMeshComponent0 SM_Ramp
+[2023.10.11-11.06.31:964][516]LogBlueprintUserMessages: [PushableObject01_C_UAID_244BFEBB8C4E67B101_1533749205] SM_Ramp2.StaticMeshComponent0 SM_Ramp
+[2023.10.11-11.06.31:977][517]LogBlueprintUserMessages: [PushableObject01_C_UAID_244BFEBB8C4E67B101_1533749205] SM_Ramp2.StaticMeshComponent0 SM_Ramp
+[2023.10.11-11.06.31:990][518]LogBlueprintUserMessages: [PushableObject01_C_UAID_244BFEBB8C4E67B101_1533749205] SM_Ramp2.StaticMeshComponent0 SM_Ramp
+[2023.10.11-11.06.32:002][519]LogBlueprintUserMessages: [PushableObject01_C_UAID_244BFEBB8C4E67B101_1533749205] SM_Ramp2.StaticMeshComponent0 SM_Ramp
+[2023.10.11-11.06.32:015][520]LogBlueprintUserMessages: [PushableObject01_C_UAID_244BFEBB8C4E67B101_1533749205] SM_Ramp2.StaticMeshComponent0 SM_Ramp
+[2023.10.11-11.06.32:029][521]LogBlueprintUserMessages: [PushableObject01_C_UAID_244BFEBB8C4E67B101_1533749205] SM_Ramp2.StaticMeshComponent0 SM_Ramp
+[2023.10.11-11.06.32:042][522]LogBlueprintUserMessages: [PushableObject01_C_UAID_244BFEBB8C4E67B101_1533749205] SM_Ramp2.StaticMeshComponent0 SM_Ramp
+[2023.10.11-11.06.32:054][523]LogBlueprintUserMessages: [PushableObject01_C_UAID_244BFEBB8C4E67B101_1533749205] SM_Ramp2.StaticMeshComponent0 SM_Ramp
+[2023.10.11-11.06.32:067][524]LogBlueprintUserMessages: [PushableObject01_C_UAID_244BFEBB8C4E67B101_1533749205] SM_Ramp2.StaticMeshComponent0 SM_Ramp
+[2023.10.11-11.06.32:080][525]LogBlueprintUserMessages: [PushableObject01_C_UAID_244BFEBB8C4E67B101_1533749205] SM_Ramp2.StaticMeshComponent0 SM_Ramp
+[2023.10.11-11.06.32:093][526]LogBlueprintUserMessages: [PushableObject01_C_UAID_244BFEBB8C4E67B101_1533749205] SM_Ramp2.StaticMeshComponent0 SM_Ramp
+[2023.10.11-11.06.32:106][527]LogBlueprintUserMessages: [PushableObject01_C_UAID_244BFEBB8C4E67B101_1533749205] SM_Ramp2.StaticMeshComponent0 SM_Ramp
+[2023.10.11-11.06.32:118][528]LogBlueprintUserMessages: [PushableObject01_C_UAID_244BFEBB8C4E67B101_1533749205] SM_Ramp2.StaticMeshComponent0 SM_Ramp
+[2023.10.11-11.06.32:133][529]LogBlueprintUserMessages: [PushableObject01_C_UAID_244BFEBB8C4E67B101_1533749205] SM_Ramp2.StaticMeshComponent0 SM_Ramp
+[2023.10.11-11.06.32:147][530]LogBlueprintUserMessages: [PushableObject01_C_UAID_244BFEBB8C4E67B101_1533749205] SM_Ramp2.StaticMeshComponent0 SM_Ramp
+[2023.10.11-11.06.32:159][531]LogBlueprintUserMessages: [PushableObject01_C_UAID_244BFEBB8C4E67B101_1533749205] SM_Ramp2.StaticMeshComponent0 SM_Ramp
+[2023.10.11-11.06.32:172][532]LogBlueprintUserMessages: [PushableObject01_C_UAID_244BFEBB8C4E67B101_1533749205] SM_Ramp2.StaticMeshComponent0 SM_Ramp
+[2023.10.11-11.06.32:184][533]LogBlueprintUserMessages: [PushableObject01_C_UAID_244BFEBB8C4E67B101_1533749205] SM_Ramp2.StaticMeshComponent0 SM_Ramp
+[2023.10.11-11.06.32:199][534]LogBlueprintUserMessages: [PushableObject01_C_UAID_244BFEBB8C4E67B101_1533749205] SM_Ramp2.StaticMeshComponent0 SM_Ramp
+[2023.10.11-11.06.32:212][535]LogBlueprintUserMessages: [PushableObject01_C_UAID_244BFEBB8C4E67B101_1533749205] SM_Ramp2.StaticMeshComponent0 SM_Ramp
+[2023.10.11-11.06.32:227][536]LogBlueprintUserMessages: [PushableObject01_C_UAID_244BFEBB8C4E67B101_1533749205] SM_Ramp2.StaticMeshComponent0 SM_Ramp
+[2023.10.11-11.06.32:241][537]LogBlueprintUserMessages: [PushableObject01_C_UAID_244BFEBB8C4E67B101_1533749205] SM_Ramp2.StaticMeshComponent0 SM_Ramp
+[2023.10.11-11.06.32:253][538]LogBlueprintUserMessages: [PushableObject01_C_UAID_244BFEBB8C4E67B101_1533749205] SM_Ramp2.StaticMeshComponent0 SM_Ramp
+[2023.10.11-11.06.32:266][539]LogBlueprintUserMessages: [PushableObject01_C_UAID_244BFEBB8C4E67B101_1533749205] SM_Ramp2.StaticMeshComponent0 SM_Ramp
+[2023.10.11-11.06.32:281][540]LogBlueprintUserMessages: [PushableObject01_C_UAID_244BFEBB8C4E67B101_1533749205] SM_Ramp2.StaticMeshComponent0 SM_Ramp
+[2023.10.11-11.06.32:293][541]LogBlueprintUserMessages: [PushableObject01_C_UAID_244BFEBB8C4E67B101_1533749205] SM_Ramp2.StaticMeshComponent0 SM_Ramp
+[2023.10.11-11.06.32:307][542]LogBlueprintUserMessages: [PushableObject01_C_UAID_244BFEBB8C4E67B101_1533749205] SM_Ramp2.StaticMeshComponent0 SM_Ramp
+[2023.10.11-11.06.32:319][543]LogBlueprintUserMessages: [PushableObject01_C_UAID_244BFEBB8C4E67B101_1533749205] SM_Ramp2.StaticMeshComponent0 SM_Ramp
+[2023.10.11-11.06.32:333][544]LogBlueprintUserMessages: [PushableObject01_C_UAID_244BFEBB8C4E67B101_1533749205] SM_Ramp2.StaticMeshComponent0 SM_Ramp
+[2023.10.11-11.06.32:346][545]LogBlueprintUserMessages: [PushableObject01_C_UAID_244BFEBB8C4E67B101_1533749205] SM_Ramp2.StaticMeshComponent0 SM_Ramp
+[2023.10.11-11.06.32:360][546]LogBlueprintUserMessages: [PushableObject01_C_UAID_244BFEBB8C4E67B101_1533749205] SM_Ramp2.StaticMeshComponent0 SM_Ramp
+[2023.10.11-11.06.32:374][547]LogBlueprintUserMessages: [PushableObject01_C_UAID_244BFEBB8C4E67B101_1533749205] SM_Ramp2.StaticMeshComponent0 SM_Ramp
+[2023.10.11-11.06.32:386][548]LogBlueprintUserMessages: [PushableObject01_C_UAID_244BFEBB8C4E67B101_1533749205] SM_Ramp2.StaticMeshComponent0 SM_Ramp
+[2023.10.11-11.06.32:399][549]LogBlueprintUserMessages: [PushableObject01_C_UAID_244BFEBB8C4E67B101_1533749205] SM_Ramp2.StaticMeshComponent0 SM_Ramp
+[2023.10.11-11.06.32:413][550]LogBlueprintUserMessages: [PushableObject01_C_UAID_244BFEBB8C4E67B101_1533749205] SM_Ramp2.StaticMeshComponent0 SM_Ramp
+[2023.10.11-11.06.32:426][551]LogBlueprintUserMessages: [PushableObject01_C_UAID_244BFEBB8C4E67B101_1533749205] SM_Ramp2.StaticMeshComponent0 SM_Ramp
+[2023.10.11-11.06.32:442][552]LogBlueprintUserMessages: [PushableObject01_C_UAID_244BFEBB8C4E67B101_1533749205] SM_Ramp2.StaticMeshComponent0 SM_Ramp
+[2023.10.11-11.06.32:456][553]LogBlueprintUserMessages: [PushableObject01_C_UAID_244BFEBB8C4E67B101_1533749205] SM_Ramp2.StaticMeshComponent0 SM_Ramp
+[2023.10.11-11.06.32:469][554]LogBlueprintUserMessages: [PushableObject01_C_UAID_244BFEBB8C4E67B101_1533749205] SM_Ramp2.StaticMeshComponent0 SM_Ramp
+[2023.10.11-11.06.32:482][555]LogBlueprintUserMessages: [PushableObject01_C_UAID_244BFEBB8C4E67B101_1533749205] SM_Ramp2.StaticMeshComponent0 SM_Ramp
+[2023.10.11-11.06.32:496][556]LogBlueprintUserMessages: [PushableObject01_C_UAID_244BFEBB8C4E67B101_1533749205] SM_Ramp2.StaticMeshComponent0 SM_Ramp
+[2023.10.11-11.06.32:509][557]LogBlueprintUserMessages: [PushableObject01_C_UAID_244BFEBB8C4E67B101_1533749205] SM_Ramp2.StaticMeshComponent0 SM_Ramp
+[2023.10.11-11.06.32:522][558]LogBlueprintUserMessages: [PushableObject01_C_UAID_244BFEBB8C4E67B101_1533749205] SM_Ramp2.StaticMeshComponent0 SM_Ramp
+[2023.10.11-11.06.32:535][559]LogBlueprintUserMessages: [PushableObject01_C_UAID_244BFEBB8C4E67B101_1533749205] SM_Ramp2.StaticMeshComponent0 SM_Ramp
+[2023.10.11-11.06.32:548][560]LogBlueprintUserMessages: [PushableObject01_C_UAID_244BFEBB8C4E67B101_1533749205] SM_Ramp2.StaticMeshComponent0 SM_Ramp
+[2023.10.11-11.06.32:561][561]LogBlueprintUserMessages: [PushableObject01_C_UAID_244BFEBB8C4E67B101_1533749205] SM_Ramp2.StaticMeshComponent0 SM_Ramp
+[2023.10.11-11.06.32:575][562]LogBlueprintUserMessages: [PushableObject01_C_UAID_244BFEBB8C4E67B101_1533749205] SM_Ramp2.StaticMeshComponent0 SM_Ramp
+[2023.10.11-11.06.32:587][563]LogBlueprintUserMessages: [PushableObject01_C_UAID_244BFEBB8C4E67B101_1533749205] SM_Ramp2.StaticMeshComponent0 SM_Ramp
+[2023.10.11-11.06.32:601][564]LogBlueprintUserMessages: [PushableObject01_C_UAID_244BFEBB8C4E67B101_1533749205] SM_Ramp2.StaticMeshComponent0 SM_Ramp
+[2023.10.11-11.06.32:614][565]LogBlueprintUserMessages: [PushableObject01_C_UAID_244BFEBB8C4E67B101_1533749205] SM_Ramp2.StaticMeshComponent0 SM_Ramp
+[2023.10.11-11.06.32:627][566]LogBlueprintUserMessages: [PushableObject01_C_UAID_244BFEBB8C4E67B101_1533749205] SM_Ramp2.StaticMeshComponent0 SM_Ramp
+[2023.10.11-11.06.32:640][567]LogBlueprintUserMessages: [PushableObject01_C_UAID_244BFEBB8C4E67B101_1533749205] SM_Ramp2.StaticMeshComponent0 SM_Ramp
+[2023.10.11-11.06.32:652][568]LogBlueprintUserMessages: [PushableObject01_C_UAID_244BFEBB8C4E67B101_1533749205] SM_Ramp2.StaticMeshComponent0 SM_Ramp
+[2023.10.11-11.06.32:665][569]LogBlueprintUserMessages: [PushableObject01_C_UAID_244BFEBB8C4E67B101_1533749205] SM_Ramp2.StaticMeshComponent0 SM_Ramp
+[2023.10.11-11.06.32:678][570]LogBlueprintUserMessages: [PushableObject01_C_UAID_244BFEBB8C4E67B101_1533749205] SM_Ramp2.StaticMeshComponent0 SM_Ramp
+[2023.10.11-11.06.32:691][571]LogBlueprintUserMessages: [PushableObject01_C_UAID_244BFEBB8C4E67B101_1533749205] SM_Ramp2.StaticMeshComponent0 SM_Ramp
+[2023.10.11-11.06.32:705][572]LogBlueprintUserMessages: [PushableObject01_C_UAID_244BFEBB8C4E67B101_1533749205] SM_Ramp2.StaticMeshComponent0 SM_Ramp
+[2023.10.11-11.06.32:718][573]LogBlueprintUserMessages: [PushableObject01_C_UAID_244BFEBB8C4E67B101_1533749205] SM_Ramp2.StaticMeshComponent0 SM_Ramp
+[2023.10.11-11.06.32:731][574]LogBlueprintUserMessages: [PushableObject01_C_UAID_244BFEBB8C4E67B101_1533749205] SM_Ramp2.StaticMeshComponent0 SM_Ramp
+[2023.10.11-11.06.32:745][575]LogBlueprintUserMessages: [PushableObject01_C_UAID_244BFEBB8C4E67B101_1533749205] SM_Ramp2.StaticMeshComponent0 SM_Ramp
+[2023.10.11-11.06.32:758][576]LogBlueprintUserMessages: [PushableObject01_C_UAID_244BFEBB8C4E67B101_1533749205] SM_Ramp2.StaticMeshComponent0 SM_Ramp
+[2023.10.11-11.06.32:771][577]LogBlueprintUserMessages: [PushableObject01_C_UAID_244BFEBB8C4E67B101_1533749205] SM_Ramp2.StaticMeshComponent0 SM_Ramp
+[2023.10.11-11.06.32:784][578]LogBlueprintUserMessages: [PushableObject01_C_UAID_244BFEBB8C4E67B101_1533749205] SM_Ramp2.StaticMeshComponent0 SM_Ramp
+[2023.10.11-11.06.32:799][579]LogBlueprintUserMessages: [PushableObject01_C_UAID_244BFEBB8C4E67B101_1533749205] SM_Ramp2.StaticMeshComponent0 SM_Ramp
+[2023.10.11-11.06.32:814][580]LogBlueprintUserMessages: [PushableObject01_C_UAID_244BFEBB8C4E67B101_1533749205] SM_Ramp2.StaticMeshComponent0 SM_Ramp
+[2023.10.11-11.06.32:828][581]LogBlueprintUserMessages: [PushableObject01_C_UAID_244BFEBB8C4E67B101_1533749205] SM_Ramp2.StaticMeshComponent0 SM_Ramp
+[2023.10.11-11.06.32:844][582]LogBlueprintUserMessages: [PushableObject01_C_UAID_244BFEBB8C4E67B101_1533749205] SM_Ramp2.StaticMeshComponent0 SM_Ramp
+[2023.10.11-11.06.32:859][583]LogBlueprintUserMessages: [PushableObject01_C_UAID_244BFEBB8C4E67B101_1533749205] SM_Ramp2.StaticMeshComponent0 SM_Ramp
+[2023.10.11-11.06.32:873][584]LogBlueprintUserMessages: [PushableObject01_C_UAID_244BFEBB8C4E67B101_1533749205] SM_Ramp2.StaticMeshComponent0 SM_Ramp
+[2023.10.11-11.06.32:886][585]LogBlueprintUserMessages: [PushableObject01_C_UAID_244BFEBB8C4E67B101_1533749205] SM_Ramp2.StaticMeshComponent0 SM_Ramp
+[2023.10.11-11.06.32:900][586]LogBlueprintUserMessages: [PushableObject01_C_UAID_244BFEBB8C4E67B101_1533749205] SM_Ramp2.StaticMeshComponent0 SM_Ramp
+[2023.10.11-11.06.34:614][709]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.10.11-11.06.34:614][709]LogWorld: BeginTearingDown for /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap
+[2023.10.11-11.06.34:617][709]LogSlate: Window 'Project_1_Snowball Preview [NetMode: Standalone 0]  (64-bit/PC D3D SM6)' being destroyed
+[2023.10.11-11.06.34:638][709]LogWorld: UWorld::CleanupWorld for ThirdPersonMap, bSessionEnded=true, bCleanupResources=true
+[2023.10.11-11.06.34:640][709]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.10.11-11.06.34:641][709]LogContentBundle: [ThirdPersonMap(Standalone)] Deleting container.
+[2023.10.11-11.06.34:706][709]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.10.11-11.06.34:710][709]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.10.11-11.06.34:726][709]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 36
+[2023.10.11-11.06.34:726][709]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=36
+[2023.10.11-11.06.34:728][709]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=36
+[2023.10.11-11.06.34:734][709]LogUObjectHash: Compacting FUObjectHashTables data took   1.43ms
+[2023.10.11-11.06.34:827][710]LogPlayLevel: Display: Destroying online subsystem :Context_40
+[2023.10.11-11.07.48:815][802]LogUObjectHash: Compacting FUObjectHashTables data took   1.11ms
+[2023.10.11-11.07.48:817][802]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/ThirdPerson/Maps/ThirdPersonMap' took 0.018
+[2023.10.11-11.09.30:729][356]LogUObjectHash: Compacting FUObjectHashTables data took   0.51ms
+[2023.10.11-11.09.30:734][356]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.10.11-11.09.30:813][356]LogUObjectHash: Compacting FUObjectHashTables data took   0.49ms
+[2023.10.11-11.09.30:828][356]LogUObjectHash: Compacting FUObjectHashTables data took   0.44ms
+[2023.10.11-11.09.30:843][356]LogUObjectHash: Compacting FUObjectHashTables data took   0.53ms
+[2023.10.11-11.09.30:872][356]LogSavePackage: Moving output files for package: /Game/Pushable/PushableObject01
+[2023.10.11-11.09.30:873][356]LogSavePackage: Moving '../../../../../../Users/min07/Documents/SeSAC_UE5/Project_1_Snowball/Project_1_Snowball/Saved/PushableObject01FC66CEC647F0AB8B23B1B6BCACC68781.tmp' to '../../../../../../Users/min07/Documents/SeSAC_UE5/Project_1_Snowball/Project_1_Snowball/Content/Pushable/PushableObject01.uasset'
+[2023.10.11-11.09.30:880][356]LogFileHelpers: InternalPromptForCheckoutAndSave took 145 ms (total: 5.28 sec)
+[2023.10.11-11.09.30:882][356]AssetCheck: New page: Asset Save: PushableObject01
+[2023.10.11-11.09.30:882][356]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Pushable/PushableObject01.PushableObject01
+[2023.10.11-11.09.31:454][405]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.10.11-11.09.31:536][405]LogSavePackage: Moving output files for package: /Game/Pushable/PushableObject01
+[2023.10.11-11.09.31:537][405]LogSavePackage: Moving '../../../../../../Users/min07/Documents/SeSAC_UE5/Project_1_Snowball/Project_1_Snowball/Saved/PushableObject018D86D77E4941C3D47FD4D3804FDEFC04.tmp' to '../../../../../../Users/min07/Documents/SeSAC_UE5/Project_1_Snowball/Project_1_Snowball/Content/Pushable/PushableObject01.uasset'
+[2023.10.11-11.09.31:543][405]LogFileHelpers: InternalPromptForCheckoutAndSave took 89 ms (total: 5.37 sec)
+[2023.10.11-11.09.31:545][405]AssetCheck: New page: Asset Save: PushableObject01
+[2023.10.11-11.09.31:545][405]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Pushable/PushableObject01.PushableObject01
