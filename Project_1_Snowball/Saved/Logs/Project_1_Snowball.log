@@ -3044,3 +3044,41 @@ Make sure 'BP_TestBall_C' has been compiled for  Get Rotation Speed
 [2023.10.12-13.06.17:739][ 57]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/ThirdPerson/Blueprints/Pushable/BP_TestBall_Auto2
 [2023.10.12-13.06.17:739][ 57]LogSavePackage: Moving '../../../../../../Users/ASUS/OneDrive/문서/Projects/SeSAC/Project_1/Project_1_Snowball/Saved/BP_TestBall_Auto29316EE304EB60ED69A4F40A8D3D035B4.tmp' to '../../../../../../Users/ASUS/OneDrive/문서/Projects/SeSAC/Project_1/Project_1_Snowball/Saved/Autosaves/Game/ThirdPerson/Blueprints/Pushable/BP_TestBall_Auto2.uasset'
 [2023.10.12-13.06.17:740][ 57]LogFileHelpers: Auto-saving content packages took 0.090
+[2023.10.13-00.12.14:424][ 48]LogAutomationController: Ignoring very large delta of 39626.93 seconds in calls to FAutomationControllerManager::Tick() and not penalizing unresponsive tests
+[2023.10.13-00.12.14:425][ 48]LogUdpMessaging: Warning: UDP messaging encountered an error. Auto repair routine started for reinitialization
+[2023.10.13-00.12.14:859][ 49]LogHttp: Warning: 000007DC8C72E600: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2023.10.13-00.12.14:859][ 49]LogHttp: Warning: 000007DC8C72E600: libcurl info message cache 0 (Too old connection (39630 seconds idle), disconnect it)
+[2023.10.13-00.12.14:859][ 49]LogHttp: Warning: 000007DC8C72E600: libcurl info message cache 1 (Connection 0 seems to be dead)
+[2023.10.13-00.12.14:859][ 49]LogHttp: Warning: 000007DC8C72E600: libcurl info message cache 2 (Closing connection 0)
+[2023.10.13-00.12.14:859][ 49]LogHttp: Warning: 000007DC8C72E600: libcurl info message cache 3 (Could not resolve host: datarouter.ol.epicgames.com)
+[2023.10.13-00.12.14:859][ 49]LogHttp: Warning: 000007DC8C72E600: libcurl info message cache 4 (Closing connection 1)
+[2023.10.13-00.12.14:859][ 49]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B1D6282A2-4A33-BE6B-5C66-2AB521B50184%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.3.1-28051148%2B%2B%2BUE5%2BRelease-5.3&UserID=163fda7548d09d62749caea126cfe668%7C841336226b3a446ca27c906ed3d35f4a%7C9aa95eeb-b796-4732-b045-bc7f276fc23b&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2023.10.13-00.12.15:627][ 51]Could not fetch the local adapter addresses
+[2023.10.13-00.12.15:627][ 51]LogUdpMessaging: Warning: Failed to join multicast group '230.0.0.1:6666' on detected local interface '0.0.0.0'
+[2023.10.13-00.12.15:698][ 52]LogUdpMessaging: Warning: UDP messaging encountered an error. Auto repair routine started for reinitialization
+[2023.10.13-00.12.17:649][ 57]Could not fetch the local adapter addresses
+[2023.10.13-00.12.17:649][ 57]LogUdpMessaging: Warning: Failed to join multicast group '230.0.0.1:6666' on detected local interface '0.0.0.0'
+[2023.10.13-00.12.17:695][ 58]LogUdpMessaging: Warning: UDP messaging encountered an error. Auto repair routine started for reinitialization
+[2023.10.13-00.12.19:570][ 63]Could not fetch the local adapter addresses
+[2023.10.13-00.12.19:570][ 63]LogUdpMessaging: Warning: Failed to join multicast group '230.0.0.1:6666' on detected local interface '0.0.0.0'
+[2023.10.13-00.12.19:696][ 64]LogUdpMessaging: Warning: UDP messaging encountered an error. Auto repair routine started for reinitialization
+[2023.10.13-00.12.21:489][ 69]Could not fetch the local adapter addresses
+[2023.10.13-00.12.21:489][ 69]LogUdpMessaging: Warning: Failed to join multicast group '230.0.0.1:6666' on detected local interface '0.0.0.0'
+[2023.10.13-00.12.21:696][ 70]LogUdpMessaging: Warning: UDP messaging encountered an error. Auto repair routine started for reinitialization
+[2023.10.13-00.12.23:510][ 75]Could not fetch the local adapter addresses
+[2023.10.13-00.12.23:510][ 75]LogUdpMessaging: Warning: Failed to join multicast group '230.0.0.1:6666' on detected local interface '0.0.0.0'
+[2023.10.13-00.12.23:696][ 76]LogUdpMessaging: Warning: UDP messaging encountered an error. Auto repair routine started for reinitialization
+[2023.10.13-00.12.25:527][ 81]Could not fetch the local adapter addresses
+[2023.10.13-00.12.25:527][ 81]LogUdpMessaging: Warning: Failed to join multicast group '230.0.0.1:6666' on detected local interface '0.0.0.0'
+[2023.10.13-00.12.25:697][ 82]LogUdpMessaging: Warning: UDP messaging encountered an error. Auto repair routine started for reinitialization
+[2023.10.13-00.12.27:839][ 87]LogUdpMessaging: Display: Added local interface '169.254.190.185' to multicast group '230.0.0.1:6666'
+[2023.10.13-00.19.08:252][284]LogD3D12RHI: OnlineHeap RollOver Detected. Increase the heap size to prevent creation of additional heaps
+[2023.10.13-00.42.08:913][ 57]LogDerivedDataCache: C:/Users/ASUS/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:04.172 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 2598 files in 3657 folders with total size 224 MiB.
+[2023.10.13-01.28.45:012][345]LogAutomationController: Ignoring very large delta of 31.38 seconds in calls to FAutomationControllerManager::Tick() and not penalizing unresponsive tests
+[2023.10.13-01.42.39:908][849]LogDerivedDataCache: C:/Users/ASUS/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:04.111 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 2598 files in 3657 folders with total size 224 MiB.
+[2023.10.13-02.42.39:869][647]LogDerivedDataCache: C:/Users/ASUS/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:04.072 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 2598 files in 3657 folders with total size 224 MiB.
+[2023.10.13-03.42.39:878][445]LogDerivedDataCache: C:/Users/ASUS/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:04.080 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 2598 files in 3657 folders with total size 224 MiB.
+[2023.10.13-04.42.40:849][246]LogDerivedDataCache: C:/Users/ASUS/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:05.050 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 2598 files in 3657 folders with total size 224 MiB.
+[2023.10.13-05.42.39:874][ 41]LogDerivedDataCache: C:/Users/ASUS/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:04.074 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 2598 files in 3657 folders with total size 224 MiB.
+[2023.10.13-05.49.00:883][183]LogUdpMessaging: Warning: FUdpMessageProcessor::UpdateReassemblers Discarding 1/2 of stale message segements from Sender=192.168.38.207:53669, Sequence=0
+[2023.10.13-06.42.39:877][839]LogDerivedDataCache: C:/Users/ASUS/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:04.076 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 2598 files in 3657 folders with total size 224 MiB.
