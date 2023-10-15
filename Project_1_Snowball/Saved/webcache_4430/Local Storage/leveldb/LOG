@@ -1,2 +1,3 @@
-2023/10/15-11:46:03.709 2058 Creating DB C:/Users/min07/Documents/SeSAC_UE5/Project_1_Snowball/Project_1_Snowball/Saved/webcache_4430\Local Storage\leveldb since it was missing.
-2023/10/15-11:46:03.732 2058 Reusing MANIFEST C:/Users/min07/Documents/SeSAC_UE5/Project_1_Snowball/Project_1_Snowball/Saved/webcache_4430\Local Storage\leveldb/MANIFEST-000001
+2023/10/15-12:58:14.429 2894 Reusing MANIFEST C:/Users/min07/Documents/SeSAC_UE5/Project_1_Snowball/Project_1_Snowball/Saved/webcache_4430\Local Storage\leveldb/MANIFEST-000001
+2023/10/15-12:58:14.439 2894 Recovering log #3
+2023/10/15-12:58:14.439 2894 Reusing old log C:/Users/min07/Documents/SeSAC_UE5/Project_1_Snowball/Project_1_Snowball/Saved/webcache_4430\Local Storage\leveldb/000003.log 
