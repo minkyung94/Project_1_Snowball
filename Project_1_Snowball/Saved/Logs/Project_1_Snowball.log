@@ -3203,3 +3203,8 @@ CameraActor2
 [2023.10.16-09.15.40:856][405]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=18
 [2023.10.16-09.15.40:862][405]LogUObjectHash: Compacting FUObjectHashTables data took   1.00ms
 [2023.10.16-09.15.41:038][406]LogPlayLevel: Display: Destroying online subsystem :Context_25
+[2023.10.16-09.16.22:289][  8]LogUObjectHash: Compacting FUObjectHashTables data took   1.23ms
+[2023.10.16-09.16.22:293][  8]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/9/85/X87ZN7E21NO96050AMBGDA_Auto1
+[2023.10.16-09.16.22:293][  8]LogSavePackage: Moving '../../../../../../Users/min07/Documents/SeSAC_UE5/Project_1_Snowball/Project_1_Snowball/Saved/X87ZN7E21NO96050AMBGDA_Auto1C3CDA9C1418877B4C2F128A0EA02D3BB.tmp' to '../../../../../../Users/min07/Documents/SeSAC_UE5/Project_1_Snowball/Project_1_Snowball/Saved/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/9/85/X87ZN7E21NO96050AMBGDA_Auto1.uasset'
+[2023.10.16-09.16.22:295][  8]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/ThirdPerson/Maps/ThirdPersonMap' took 0.020
+[2023.10.16-09.16.22:295][  8]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.020
