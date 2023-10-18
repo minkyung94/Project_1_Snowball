@@ -1,6 +1,0 @@
-2023/10/15-11:48:44.976 19f0 Creating DB C:/Users/min07/Documents/SeSAC_UE5/Project_1_Snowball/Project_1_Snowball/Saved/webcache_4430\IndexedDB\https_www.youtube-nocookie.com_0.indexeddb.leveldb since it was missing.
-2023/10/15-11:48:44.990 19f0 Reusing MANIFEST C:/Users/min07/Documents/SeSAC_UE5/Project_1_Snowball/Project_1_Snowball/Saved/webcache_4430\IndexedDB\https_www.youtube-nocookie.com_0.indexeddb.leveldb/MANIFEST-000001
-2023/10/15-12:22:06.903 3c18 Level-0 table #5: started
-2023/10/15-12:22:06.916 3c18 Level-0 table #5: 1211 bytes OK
-2023/10/15-12:22:06.920 3c18 Delete type=0 #3
-2023/10/15-12:22:06.921 3c18 Manual compaction at level-0 from (begin) .. (end); will stop at (end)
